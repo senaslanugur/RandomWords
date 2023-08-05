@@ -1,0 +1,6746 @@
+[
+  {
+    "SN": 1,
+    "English": "Abolish",
+    "Okunus": "ebolış",
+    "Türkçe": "İptal Etmek"
+  },
+  {
+    "SN": 2,
+    "English": "Abolition",
+    "Okunus": "ebolışın",
+    "Türkçe": "Kaldırmak"
+  },
+  {
+    "SN": 3,
+    "English": "Absorb",
+    "Okunus": "ıbsorb",
+    "Türkçe": "Emmek, Karşılamak, Dengelemek"
+  },
+  {
+    "SN": 4,
+    "English": "Abuse",
+    "Okunus": "ebyus",
+    "Türkçe": "Kötüye Kullanma, Suistimal Etme"
+  },
+  {
+    "SN": 5,
+    "English": "Academic",
+    "Okunus": "ekıdemik",
+    "Türkçe": "Akademik"
+  },
+  {
+    "SN": 6,
+    "English": "Accelerator",
+    "Okunus": "ekselıreytır",
+    "Türkçe": "Gaz Pedalı"
+  },
+  {
+    "SN": 7,
+    "English": "Accent",
+    "Okunus": "eksınt",
+    "Türkçe": "Şive, Aksan"
+  },
+  {
+    "SN": 8,
+    "English": "Access",
+    "Okunus": "ekses",
+    "Türkçe": "1)Giriş 2)Yol"
+  },
+  {
+    "SN": 9,
+    "English": "Accessible",
+    "Okunus": "eksesıbıl",
+    "Türkçe": "1)Erişilebilir 2)Kolay Bulunur"
+  },
+  {
+    "SN": 10,
+    "English": "Accounting",
+    "Okunus": "ekaunting",
+    "Türkçe": "Muhasebe"
+  },
+  {
+    "SN": 11,
+    "English": "Accumulate",
+    "Okunus": "ekyumyuleyt",
+    "Türkçe": "Toplamak, Biriktirmek"
+  },
+  {
+    "SN": 12,
+    "English": "Accused",
+    "Okunus": "ekyuzıd",
+    "Türkçe": "1)Sanık 2)Suçlamak"
+  },
+  {
+    "SN": 13,
+    "English": "Accustom",
+    "Okunus": "ekastım",
+    "Türkçe": "Alıştırmak"
+  },
+  {
+    "SN": 14,
+    "English": "Accustomed",
+    "Okunus": "ekastımd",
+    "Türkçe": "Alışık, Alışkın"
+  },
+  {
+    "SN": 15,
+    "English": "Achieve",
+    "Okunus": "eçiv",
+    "Türkçe": "Üstünden Gelme, Başarmak"
+  },
+  {
+    "SN": 16,
+    "English": "Achievement",
+    "Okunus": "eçivmınt",
+    "Türkçe": "Başarı"
+  },
+  {
+    "SN": 17,
+    "English": "Acid",
+    "Okunus": "esid",
+    "Türkçe": "Asit"
+  },
+  {
+    "SN": 18,
+    "English": "Acknowledge",
+    "Okunus": "eknolıρ",
+    "Türkçe": "Doğrulamak"
+  },
+  {
+    "SN": 19,
+    "English": "Acquire",
+    "Okunus": "ikwaır",
+    "Türkçe": "Edinmek"
+  },
+  {
+    "SN": 20,
+    "English": "Acquisition",
+    "Okunus": "ekwızışın",
+    "Türkçe": "Edinme, İstimlak, El Koyma"
+  },
+  {
+    "SN": 21,
+    "English": "Addict",
+    "Okunus": "edikt",
+    "Türkçe": "Tiryaki, Müptela"
+  },
+  {
+    "SN": 22,
+    "English": "Admiral",
+    "Okunus": "edmirıl",
+    "Türkçe": "Amiral"
+  },
+  {
+    "SN": 23,
+    "English": "Admission",
+    "Okunus": "edmişın",
+    "Türkçe": "1)Kabul, İtiraf 2)Giriş"
+  },
+  {
+    "SN": 24,
+    "English": "Adopt",
+    "Okunus": "edopt",
+    "Türkçe": "1)Kabul Etmek 2)Evlat Edinmek"
+  },
+  {
+    "SN": 25,
+    "English": "Adverse",
+    "Okunus": "edvörs",
+    "Türkçe": "Zıt, Karşı"
+  },
+  {
+    "SN": 26,
+    "English": "Airport",
+    "Okunus": "eyirport",
+    "Türkçe": "Hava Alanı"
+  },
+  {
+    "SN": 27,
+    "English": "Album",
+    "Okunus": "elbım",
+    "Türkçe": "Albüm"
+  },
+  {
+    "SN": 28,
+    "English": "Alcohol",
+    "Okunus": "elkıhol",
+    "Türkçe": "Alkol"
+  },
+  {
+    "SN": 29,
+    "English": "Allocate",
+    "Okunus": "elıkeyt",
+    "Türkçe": "Tahsis Etmek, Dağıtmak,\nBölüştürmek"
+  },
+  {
+    "SN": 30,
+    "English": "Allocations",
+    "Okunus": "elıkeyşın",
+    "Türkçe": "Tahsisat"
+  },
+  {
+    "SN": 31,
+    "English": "Allowance",
+    "Okunus": "elauıns",
+    "Türkçe": "Düzenli Sağlanan Para, Harçlık"
+  },
+  {
+    "SN": 32,
+    "English": "Ally",
+    "Okunus": "elay",
+    "Türkçe": "Anlaşma, Birleşme"
+  },
+  {
+    "SN": 33,
+    "English": "Alphabet",
+    "Okunus": "elfıbit",
+    "Türkçe": "Alfabe"
+  },
+  {
+    "SN": 34,
+    "English": "Alter",
+    "Okunus": "oltır",
+    "Türkçe": "Değiştirmek"
+  },
+  {
+    "SN": 35,
+    "English": "Alternative",
+    "Okunus": "oltörnıtiv",
+    "Türkçe": "Alternatif, Seçenek"
+  },
+  {
+    "SN": 36,
+    "English": "Amateur",
+    "Okunus": "emıtör",
+    "Türkçe": "Amatör"
+  },
+  {
+    "SN": 37,
+    "English": "Ambulance",
+    "Okunus": "embyulıns",
+    "Türkçe": "Ambulans"
+  },
+  {
+    "SN": 38,
+    "English": "Amend",
+    "Okunus": "emend",
+    "Türkçe": "Düzelme, Ayarlama"
+  },
+  {
+    "SN": 39,
+    "English": "Ample",
+    "Okunus": "empıl",
+    "Türkçe": "Geniş, Bol"
+  },
+  {
+    "SN": 40,
+    "English": "Anchor",
+    "Okunus": "enkır",
+    "Türkçe": "1)Çapa 2)Demir Atmak (Gemi)"
+  },
+  {
+    "SN": 41,
+    "English": "Angel",
+    "Okunus": "eyncıl",
+    "Türkçe": "Melek"
+  },
+  {
+    "SN": 42,
+    "English": "Anger",
+    "Okunus": "engır",
+    "Türkçe": "Kızmak"
+  },
+  {
+    "SN": 43,
+    "English": "Angle",
+    "Okunus": "engıl",
+    "Türkçe": "Açı, Köşe"
+  },
+  {
+    "SN": 44,
+    "English": "Anticipate",
+    "Okunus": "entisipeyt",
+    "Türkçe": "1)Ön Görmek 2)Beklemek"
+  },
+  {
+    "SN": 45,
+    "English": "Antique",
+    "Okunus": "entik",
+    "Türkçe": "Antika"
+  },
+  {
+    "SN": 46,
+    "English": "Anxiously",
+    "Okunus": "enkşıslıy",
+    "Türkçe": "Endişeli Olmak"
+  },
+  {
+    "SN": 47,
+    "English": "Apartment",
+    "Okunus": "epartmınt",
+    "Türkçe": "Apartman Dairesi"
+  },
+  {
+    "SN": 48,
+    "English": "Apparently",
+    "Okunus": "eparıntliy",
+    "Türkçe": "Bariz Olmak, Görünmek"
+  },
+  {
+    "SN": 49,
+    "English": "Article Of\nAssociation",
+    "Okunus": "artıkıl ıv\nısosieyşın",
+    "Türkçe": "Ana Sözleşme"
+  },
+  {
+    "SN": 50,
+    "English": "Aspect",
+    "Okunus": "espekt",
+    "Türkçe": "Görünüş, Görüş, Hal, Çehre, Durum"
+  },
+  {
+    "SN": 51,
+    "English": "Asset",
+    "Okunus": "eset",
+    "Türkçe": "Varlık"
+  },
+  {
+    "SN": 52,
+    "English": "Association",
+    "Okunus": "esuşeytın",
+    "Türkçe": "Cemiyet, Birlik, Aynı Şeyle İlgili Olan"
+  },
+  {
+    "SN": 53,
+    "English": "Assurance",
+    "Okunus": "eşurıns",
+    "Türkçe": "Güven, İnanç, Söz"
+  },
+  {
+    "SN": 54,
+    "English": "Assure",
+    "Okunus": "eşuır",
+    "Türkçe": "Temin Etmek, Söz Vermek, İkna\nEtmek"
+  },
+  {
+    "SN": 55,
+    "English": "Assured",
+    "Okunus": "eşurıd",
+    "Türkçe": "1)Önceden Belli 2)Kendine\nGüvenen"
+  },
+  {
+    "SN": 56,
+    "English": "Attachment",
+    "Okunus": "etaρmınt",
+    "Türkçe": "İlave, Ek"
+  },
+  {
+    "SN": 57,
+    "English": "Attendant",
+    "Okunus": "ıtendınt",
+    "Türkçe": "1) Hizmetçi, Hizmetkâr 2) Refakat\nEden Kimse"
+  },
+  {
+    "SN": 58,
+    "English": "Auction",
+    "Okunus": "okşın",
+    "Türkçe": "Müzayede, Mezat"
+  },
+  {
+    "SN": 59,
+    "English": "Audience",
+    "Okunus": "odyıns",
+    "Türkçe": "İzleyici (Tv, Tiyatro Vb.)"
+  },
+  {
+    "SN": 60,
+    "English": "Augment",
+    "Okunus": "ogment",
+    "Türkçe": "İlave Etmek, Arttırmak, Zam\nYapmak"
+  },
+  {
+    "SN": 61,
+    "English": "Augmentation",
+    "Okunus": "ogmentetişın",
+    "Türkçe": "Zam, Ekleme"
+  },
+  {
+    "SN": 62,
+    "English": "Author",
+    "Okunus": "othır",
+    "Türkçe": "Yazar"
+  },
+  {
+    "SN": 63,
+    "English": "Authority",
+    "Okunus": "othoriti",
+    "Türkçe": "Otorite"
+  },
+  {
+    "SN": 64,
+    "English": "Award",
+    "Okunus": "iwood",
+    "Türkçe": "Mükâfat"
+  },
+  {
+    "SN": 65,
+    "English": "Awkward",
+    "Okunus": "okvırd",
+    "Türkçe": "1)Acemi, Sakar 2)Kullanılması,\nAnlaşılması Güç"
+  },
+  {
+    "SN": 66,
+    "English": "Babysitter",
+    "Okunus": "beybisitır",
+    "Türkçe": "Çocuk Bakıcısı"
+  },
+  {
+    "SN": 67,
+    "English": "Bachelor",
+    "Okunus": "bekhilır",
+    "Türkçe": "1)Bekâr 2)Üniversitenin İlk Derecesi"
+  },
+  {
+    "SN": 68,
+    "English": "Backbone",
+    "Okunus": "bekbon",
+    "Türkçe": "1)Omurga 2)Temel Taşı, En Önemli\nBölüm"
+  },
+  {
+    "SN": 69,
+    "English": "Bale",
+    "Okunus": "beyl",
+    "Türkçe": "Balya (Halı, Tütün Vs.)"
+  },
+  {
+    "SN": 70,
+    "English": "Banal",
+    "Okunus": "bınaal",
+    "Türkçe": "Banal, Adi"
+  },
+  {
+    "SN": 71,
+    "English": "Bandage",
+    "Okunus": "bendıc",
+    "Türkçe": "Bandaj, Yara Bandı"
+  },
+  {
+    "SN": 72,
+    "English": "Baneful",
+    "Okunus": "beynful",
+    "Türkçe": "Kötü, Kötü Şey (A Baneful\nInfluence=Kötü Etki)"
+  },
+  {
+    "SN": 73,
+    "English": "Banish",
+    "Okunus": "beniş",
+    "Türkçe": "1)Sürgüne Yollama 2)Düşünmekten\nVazgeçme"
+  },
+  {
+    "SN": 74,
+    "English": "Barbarous",
+    "Okunus": "barbırıs",
+    "Türkçe": "Barbar, Vahşi"
+  },
+  {
+    "SN": 75,
+    "English": "Barber",
+    "Okunus": "baabır",
+    "Türkçe": "Berber"
+  },
+  {
+    "SN": 76,
+    "English": "Basin",
+    "Okunus": "beysın",
+    "Türkçe": "1) Leğen 2) Leğen Dolusu 3) Havza"
+  },
+  {
+    "SN": 77,
+    "English": "Bastardize",
+    "Okunus": "bestırdayz",
+    "Türkçe": "1)Değerini Düşürmek 2)Konunun\nAnlamını Değiştirmek"
+  },
+  {
+    "SN": 78,
+    "English": "Battery",
+    "Okunus": "betıri",
+    "Türkçe": "Pil"
+  },
+  {
+    "SN": 79,
+    "English": "Bawl",
+    "Okunus": "bavıl",
+    "Türkçe": "Bağırmak Veya Ağlamak (Seslice)"
+  },
+  {
+    "SN": 80,
+    "English": "Beforehand",
+    "Okunus": "bifor hend",
+    "Türkçe": "Önceden"
+  },
+  {
+    "SN": 81,
+    "English": "Bias",
+    "Okunus": "bays",
+    "Türkçe": "Ön Yargı, Eğilim"
+  },
+  {
+    "SN": 82,
+    "English": "Birthday",
+    "Okunus": "börthdey",
+    "Türkçe": "Doğumgünü"
+  },
+  {
+    "SN": 83,
+    "English": "Bladder",
+    "Okunus": "bledır",
+    "Türkçe": "1) Mesane, Kese 2)İç Lastik"
+  },
+  {
+    "SN": 84,
+    "English": "Blade",
+    "Okunus": "bleyd",
+    "Türkçe": "Ustura, Bıçak"
+  },
+  {
+    "SN": 85,
+    "English": "Blister",
+    "Okunus": "blistır",
+    "Türkçe": "Kabarcık"
+  },
+  {
+    "SN": 86,
+    "English": "Blockade",
+    "Okunus": "blokeyd",
+    "Türkçe": "Ablukaya Alma"
+  },
+  {
+    "SN": 87,
+    "English": "Blouse",
+    "Okunus": "blauz",
+    "Türkçe": "Bluz"
+  },
+  {
+    "SN": 88,
+    "English": "Bodyguard",
+    "Okunus": "badigard",
+    "Türkçe": "Koruma Görevlisi, Goril"
+  },
+  {
+    "SN": 89,
+    "English": "Boiler",
+    "Okunus": "boylır",
+    "Türkçe": "Kazan"
+  },
+  {
+    "SN": 90,
+    "English": "Bolt",
+    "Okunus": "bolt",
+    "Türkçe": "1)Cıvata 2)Sürgü(Kapı) 3)Ani\nKaçış(Korkuyla) 4)Somun"
+  },
+  {
+    "SN": 91,
+    "English": "Bonnet",
+    "Okunus": "bonıt",
+    "Türkçe": "1)Çocuk Başlığı 2)Arabanın Kaputu"
+  },
+  {
+    "SN": 92,
+    "English": "Bony",
+    "Okunus": "boni",
+    "Türkçe": "Çok Zayıf"
+  },
+  {
+    "SN": 93,
+    "English": "Booklet",
+    "Okunus": "buklıt",
+    "Türkçe": "Broşür"
+  },
+  {
+    "SN": 94,
+    "English": "Boom",
+    "Okunus": "buum",
+    "Türkçe": "1)Patlamak 2)Çok Hızlı Genişlemek"
+  },
+  {
+    "SN": 95,
+    "English": "Boot",
+    "Okunus": "buut",
+    "Türkçe": "1)Ayakkabı, Bot 2)Bagaj"
+  },
+  {
+    "SN": 96,
+    "English": "Boring",
+    "Okunus": "boring",
+    "Türkçe": "Sıkıcı (I’m Bored=Sıkıldım, I’m\nBoring=Sıkıcıyım)"
+  },
+  {
+    "SN": 97,
+    "English": "Bother",
+    "Okunus": "bodır",
+    "Türkçe": "Can Sıkmak, Üzmek"
+  },
+  {
+    "SN": 98,
+    "English": "Bounce",
+    "Okunus": "bauns",
+    "Türkçe": "1)Yansıtmak 2)Zıplatmak (Top Vs.)"
+  },
+  {
+    "SN": 99,
+    "English": "Bound",
+    "Okunus": "baund",
+    "Türkçe": "Bağlı, Sınırlı, Atlamak"
+  },
+  {
+    "SN": 100,
+    "English": "Boundary",
+    "Okunus": "baundri",
+    "Türkçe": "Sınır"
+  },
+  {
+    "SN": 101,
+    "English": "Brake",
+    "Okunus": "breyk",
+    "Türkçe": "Frenlemek, Fren"
+  },
+  {
+    "SN": 102,
+    "English": "Branch",
+    "Okunus": "branρ",
+    "Türkçe": "1)Dal 2)Şube, Kol"
+  },
+  {
+    "SN": 103,
+    "English": "Brand",
+    "Okunus": "brend",
+    "Türkçe": "1)Marka 2)Lekelemek, Kötü Ün"
+  },
+  {
+    "SN": 104,
+    "English": "Brand-New",
+    "Okunus": "brend niyu",
+    "Türkçe": "Yeni Model, Yepyeni"
+  },
+  {
+    "SN": 105,
+    "English": "Break Down",
+    "Okunus": "brek davn",
+    "Türkçe": "1)Çöküş 2)Ayırma, Sınıflama,\nDetaylandırma"
+  },
+  {
+    "SN": 106,
+    "English": "Break-Out",
+    "Okunus": "brek aut",
+    "Türkçe": "1)Aniden Başlama, Patlak\nVerme(Savaş)2)Kaçmak(Hapis)"
+  },
+  {
+    "SN": 107,
+    "English": "Breast",
+    "Okunus": "brest",
+    "Türkçe": "Göğüs"
+  },
+  {
+    "SN": 108,
+    "English": "Bribe",
+    "Okunus": "brayb",
+    "Türkçe": "Rüşvet"
+  },
+  {
+    "SN": 109,
+    "English": "Bride",
+    "Okunus": "brayd",
+    "Türkçe": "Gelin"
+  },
+  {
+    "SN": 110,
+    "English": "Briefcase",
+    "Okunus": "brifkeys",
+    "Türkçe": "İş Çantası"
+  },
+  {
+    "SN": 111,
+    "English": "Brilliant",
+    "Okunus": "brilyınt",
+    "Türkçe": "Parlak, Akıllı"
+  },
+  {
+    "SN": 112,
+    "English": "Brochure",
+    "Okunus": "brıuşır",
+    "Türkçe": "Broşür"
+  },
+  {
+    "SN": 113,
+    "English": "Broken",
+    "Okunus": "brıukın",
+    "Türkçe": "Kırık"
+  },
+  {
+    "SN": 114,
+    "English": "Broker",
+    "Okunus": "brıukır",
+    "Türkçe": "Komisyoncu, Simsar"
+  },
+  {
+    "SN": 115,
+    "English": "Brooch",
+    "Okunus": "broş",
+    "Türkçe": "Broş, İğne"
+  },
+  {
+    "SN": 116,
+    "English": "Brother-In-Law",
+    "Okunus": "bradır in lo",
+    "Türkçe": "Kayınbırader"
+  },
+  {
+    "SN": 117,
+    "English": "Brow",
+    "Okunus": "brau",
+    "Türkçe": "Alın"
+  },
+  {
+    "SN": 118,
+    "English": "Bucket",
+    "Okunus": "bakıt",
+    "Türkçe": "Kova"
+  },
+  {
+    "SN": 119,
+    "English": "Bull",
+    "Okunus": "bul",
+    "Türkçe": "Boğa"
+  },
+  {
+    "SN": 120,
+    "English": "Bullet",
+    "Okunus": "bulıt",
+    "Türkçe": "Mermi"
+  },
+  {
+    "SN": 121,
+    "English": "Bureau",
+    "Okunus": "büuro",
+    "Türkçe": "Büro"
+  },
+  {
+    "SN": 122,
+    "English": "Bureaucracy",
+    "Okunus": "bürakresi",
+    "Türkçe": "Bürokrasi"
+  },
+  {
+    "SN": 123,
+    "English": "By The Way",
+    "Okunus": "bay dı vey",
+    "Türkçe": "Bunun Yanında, Aklıma Gelmişken"
+  },
+  {
+    "SN": 124,
+    "English": "Cabbage",
+    "Okunus": "kebic",
+    "Türkçe": "Lahana"
+  },
+  {
+    "SN": 125,
+    "English": "Cabin",
+    "Okunus": "kebin",
+    "Türkçe": "Kabin"
+  },
+  {
+    "SN": 126,
+    "English": "Cabinet",
+    "Okunus": "kebınıt",
+    "Türkçe": "Kabine"
+  },
+  {
+    "SN": 127,
+    "English": "Calf",
+    "Okunus": "kaıf",
+    "Türkçe": "1)Fil Veya Balina Yavrusu, Buzağı\n2)Baldır"
+  },
+  {
+    "SN": 128,
+    "English": "Camel",
+    "Okunus": "keml",
+    "Türkçe": "Deve"
+  },
+  {
+    "SN": 129,
+    "English": "Canary",
+    "Okunus": "kıneri",
+    "Türkçe": "1) Kanarya Kuşu 2)Kanarya Sarısı"
+  },
+  {
+    "SN": 130,
+    "English": "Cancellation",
+    "Okunus": "kensıleyşın",
+    "Türkçe": "İptal"
+  },
+  {
+    "SN": 131,
+    "English": "Cannon",
+    "Okunus": "kenın",
+    "Türkçe": "Top (Silah)"
+  },
+  {
+    "SN": 132,
+    "English": "Capable",
+    "Okunus": "keypıbıl",
+    "Türkçe": "Muktedir"
+  },
+  {
+    "SN": 133,
+    "English": "Carbon-Paper",
+    "Okunus": "karbın peypır",
+    "Türkçe": "Karbon Kâğıdı"
+  },
+  {
+    "SN": 134,
+    "English": "Carefree",
+    "Okunus": "keyfri",
+    "Türkçe": "Önemsemeyen"
+  },
+  {
+    "SN": 135,
+    "English": "Careful",
+    "Okunus": "keyrfıl",
+    "Türkçe": "Dikkatli"
+  },
+  {
+    "SN": 136,
+    "English": "Careless",
+    "Okunus": "keyrlıs",
+    "Türkçe": "Dikkatsiz"
+  },
+  {
+    "SN": 137,
+    "English": "Cargo",
+    "Okunus": "kargo",
+    "Türkçe": "Kargo"
+  },
+  {
+    "SN": 138,
+    "English": "Carrier",
+    "Okunus": "keriyır",
+    "Türkçe": "Taşıyıcı"
+  },
+  {
+    "SN": 139,
+    "English": "Carrot",
+    "Okunus": "kerıt",
+    "Türkçe": "Havuç"
+  },
+  {
+    "SN": 140,
+    "English": "Carryover",
+    "Okunus": "keriovır",
+    "Türkçe": "Devir"
+  },
+  {
+    "SN": 141,
+    "English": "Cartridge",
+    "Okunus": "kartrıρ",
+    "Türkçe": "Kartuş, Şarjör"
+  },
+  {
+    "SN": 142,
+    "English": "Cash-Register",
+    "Okunus": "keş-recıstır",
+    "Türkçe": "Yazar Kasa"
+  },
+  {
+    "SN": 143,
+    "English": "Casual",
+    "Okunus": "keşuıl",
+    "Türkçe": "1)Planlanmıyan (Casual Meeting)\n2)Normal, Sade"
+  },
+  {
+    "SN": 144,
+    "English": "Caterpillar",
+    "Okunus": "ketırpilır",
+    "Türkçe": "Tırtıl"
+  },
+  {
+    "SN": 145,
+    "English": "Cauliflower",
+    "Okunus": "koliflavır",
+    "Türkçe": "Karnıbahar"
+  },
+  {
+    "SN": 146,
+    "English": "Caution",
+    "Okunus": "koşın",
+    "Türkçe": "Uyarı"
+  },
+  {
+    "SN": 147,
+    "English": "Cave",
+    "Okunus": "keyv",
+    "Türkçe": "Mağara"
+  },
+  {
+    "SN": 148,
+    "English": "Cease",
+    "Okunus": "siis",
+    "Türkçe": "Durdurmak"
+  },
+  {
+    "SN": 149,
+    "English": "Cease-Fire",
+    "Okunus": "siis-fayır",
+    "Türkçe": "Ateş-Kes"
+  },
+  {
+    "SN": 150,
+    "English": "Celebration",
+    "Okunus": "selibreyşın",
+    "Türkçe": "Kutlama"
+  },
+  {
+    "SN": 151,
+    "English": "Cement",
+    "Okunus": "sıment",
+    "Türkçe": "Çimento"
+  },
+  {
+    "SN": 152,
+    "English": "Central",
+    "Okunus": "sentrıl",
+    "Türkçe": "Merkezi"
+  },
+  {
+    "SN": 153,
+    "English": "Centre",
+    "Okunus": "sentır",
+    "Türkçe": "Orta, Merkez"
+  },
+  {
+    "SN": 154,
+    "English": "Cereal",
+    "Okunus": "siyriyıl",
+    "Türkçe": "Tahıl, Mısır"
+  },
+  {
+    "SN": 155,
+    "English": "Chamber",
+    "Okunus": "ρembır",
+    "Türkçe": "Oda (Chamber Of Commerce =\nTicaret Odası Vb.)"
+  },
+  {
+    "SN": 156,
+    "English": "Champagne",
+    "Okunus": "şempeyn",
+    "Türkçe": "Şampanya"
+  },
+  {
+    "SN": 157,
+    "English": "Channel",
+    "Okunus": "ρenıl",
+    "Türkçe": "Kanal (Tv, Radyo Gibi.)"
+  },
+  {
+    "SN": 158,
+    "English": "Chapter",
+    "Okunus": "ρeptır",
+    "Türkçe": "Bölüm, Konu"
+  },
+  {
+    "SN": 159,
+    "English": "Charity",
+    "Okunus": "ρerıti",
+    "Türkçe": "Hayır Severlik,Yardım Severlik"
+  },
+  {
+    "SN": 160,
+    "English": "Charlatan",
+    "Okunus": "carlıtın",
+    "Türkçe": "Şarlatan"
+  },
+  {
+    "SN": 161,
+    "English": "Chart",
+    "Okunus": "ρart",
+    "Türkçe": "Tablo, Çizelge"
+  },
+  {
+    "SN": 162,
+    "English": "Charter",
+    "Okunus": "ρartır",
+    "Türkçe": "1)Patent, Berat, Devlet Onaylı\n2)Kiralık Uçak, Gemi Vb."
+  },
+  {
+    "SN": 163,
+    "English": "Chase",
+    "Okunus": "ρeys",
+    "Türkçe": "Kovalamak"
+  },
+  {
+    "SN": 164,
+    "English": "Chat",
+    "Okunus": "ρet",
+    "Türkçe": "Çene Çalmak, Sohbet"
+  },
+  {
+    "SN": 165,
+    "English": "Cheek",
+    "Okunus": "ρiik",
+    "Türkçe": "1)Yanak 2)Popo"
+  },
+  {
+    "SN": 166,
+    "English": "Cheeky",
+    "Okunus": "ρiki",
+    "Türkçe": "Yüzsüz, Kaba, Kibar Olmayan"
+  },
+  {
+    "SN": 167,
+    "English": "Cheerful",
+    "Okunus": "ρiirful",
+    "Türkçe": "Neşeli, Şen, Mutlu"
+  },
+  {
+    "SN": 168,
+    "English": "Chef",
+    "Okunus": "şef",
+    "Türkçe": "Ahçı, Şef (Yalnız Yiyecek Konusunda\n)"
+  },
+  {
+    "SN": 169,
+    "English": "Cheque",
+    "Okunus": "ρek",
+    "Türkçe": "Çek"
+  },
+  {
+    "SN": 170,
+    "English": "Chest",
+    "Okunus": "ρest",
+    "Türkçe": "1)Göğüs 2)Sandık"
+  },
+  {
+    "SN": 171,
+    "English": "Chest Of Drawers",
+    "Okunus": "ρest of drewır",
+    "Türkçe": "Çekmeceli Dolap, Konsül"
+  },
+  {
+    "SN": 172,
+    "English": "Chestnut",
+    "Okunus": "ρesnat",
+    "Türkçe": "Kestane"
+  },
+  {
+    "SN": 173,
+    "English": "Chilli",
+    "Okunus": "ciliy",
+    "Türkçe": "Çok Acı"
+  },
+  {
+    "SN": 174,
+    "English": "Chilly",
+    "Okunus": "ρiliy",
+    "Türkçe": "Rahatsız Edici Soğuk"
+  },
+  {
+    "SN": 175,
+    "English": "Chimney",
+    "Okunus": "ρimni",
+    "Türkçe": "Baca"
+  },
+  {
+    "SN": 176,
+    "English": "China",
+    "Okunus": "ρaynı",
+    "Türkçe": "1) Çin 2) Çini, Porselen V.B"
+  },
+  {
+    "SN": 177,
+    "English": "Chip",
+    "Okunus": "ρip",
+    "Türkçe": "Ufak Parça"
+  },
+  {
+    "SN": 178,
+    "English": "Chocolate",
+    "Okunus": "ρaklıt",
+    "Türkçe": "Çikulata"
+  },
+  {
+    "SN": 179,
+    "English": "Choice",
+    "Okunus": "ρoyıs",
+    "Türkçe": "Seçim, İstek, Tercih"
+  },
+  {
+    "SN": 180,
+    "English": "Choke",
+    "Okunus": "ρok",
+    "Türkçe": "1)Boğma, Tıkama (Boğarak\nÖldürmek) 2)Jikle"
+  },
+  {
+    "SN": 181,
+    "English": "Chop",
+    "Okunus": "cop",
+    "Türkçe": "1)Kesmek, Yarmak 2)Pirzola"
+  },
+  {
+    "SN": 182,
+    "English": "Chuckle",
+    "Okunus": "ρakıl",
+    "Türkçe": "Kıkırdama"
+  },
+  {
+    "SN": 183,
+    "English": "Cigar",
+    "Okunus": "sigaar",
+    "Türkçe": "Puro"
+  },
+  {
+    "SN": 184,
+    "English": "Circuit",
+    "Okunus": "sörkıt",
+    "Türkçe": "Devre(Close Cırcuıt Tv, Short-\nCırcuıt=Kısa Devre Vb)"
+  },
+  {
+    "SN": 185,
+    "English": "Claimant",
+    "Okunus": "klemınt",
+    "Türkçe": "Mahkemeden Hak Talep Eden,\nDavacı"
+  },
+  {
+    "SN": 186,
+    "English": "Clap",
+    "Okunus": "klep",
+    "Türkçe": "Alkışlamak"
+  },
+  {
+    "SN": 187,
+    "English": "Clay",
+    "Okunus": "kıley",
+    "Türkçe": "Kil"
+  },
+  {
+    "SN": 188,
+    "English": "Client",
+    "Okunus": "klaynt",
+    "Türkçe": "Müşteri, Müvekkil"
+  },
+  {
+    "SN": 189,
+    "English": "Climate",
+    "Okunus": "klaymıt",
+    "Türkçe": "Iklım"
+  },
+  {
+    "SN": 190,
+    "English": "Clinic",
+    "Okunus": "klınik",
+    "Türkçe": "Klinik"
+  },
+  {
+    "SN": 191,
+    "English": "Clip",
+    "Okunus": "klip",
+    "Türkçe": "Kırpmak, Kesmek, Klips (Kağıt,Saρ\nVb.)"
+  },
+  {
+    "SN": 192,
+    "English": "Cloth",
+    "Okunus": "kloth",
+    "Türkçe": "Bez ( A Piece Of Cloth )"
+  },
+  {
+    "SN": 193,
+    "English": "Clown",
+    "Okunus": "klaun",
+    "Türkçe": "Palyaço"
+  },
+  {
+    "SN": 194,
+    "English": "Clue",
+    "Okunus": "klu",
+    "Türkçe": "İpucu"
+  },
+  {
+    "SN": 195,
+    "English": "Clutch",
+    "Okunus": "klaρ",
+    "Türkçe": "1) Debrijaj 2) Kavrama"
+  },
+  {
+    "SN": 196,
+    "English": "Co",
+    "Okunus": "ko",
+    "Türkçe": "Beraber (Co-Operate, Co-\nEducation)"
+  },
+  {
+    "SN": 197,
+    "English": "Co-Operate",
+    "Okunus": "koopereyt",
+    "Türkçe": "Birlikte Çalışmak"
+  },
+  {
+    "SN": 198,
+    "English": "Coast",
+    "Okunus": "kost",
+    "Türkçe": "Kıyı, Sahil"
+  },
+  {
+    "SN": 199,
+    "English": "Cock",
+    "Okunus": "kak",
+    "Türkçe": "1)Horoz, Erkek Kuş 2)Erkeklik\nOrganı"
+  },
+  {
+    "SN": 200,
+    "English": "Cocoa",
+    "Okunus": "koko",
+    "Türkçe": "Kakao"
+  },
+  {
+    "SN": 201,
+    "English": "Code",
+    "Okunus": "kod",
+    "Türkçe": "Kod"
+  },
+  {
+    "SN": 202,
+    "English": "Collapse",
+    "Okunus": "kıleps",
+    "Türkçe": "1)Çökmek 2)Katlamak"
+  },
+  {
+    "SN": 203,
+    "English": "Colleague",
+    "Okunus": "koliig",
+    "Türkçe": "Meslektaş"
+  },
+  {
+    "SN": 204,
+    "English": "Collective\nAgreement",
+    "Okunus": "kollektiv\negrimınt",
+    "Türkçe": "Toplu Sözleşme"
+  },
+  {
+    "SN": 205,
+    "English": "Colonel",
+    "Okunus": "körlnıl",
+    "Türkçe": "Albay"
+  },
+  {
+    "SN": 206,
+    "English": "Column",
+    "Okunus": "kolım",
+    "Türkçe": "Sütun"
+  },
+  {
+    "SN": 207,
+    "English": "Coma",
+    "Okunus": "komı",
+    "Türkçe": "Koma, Koma Hali"
+  },
+  {
+    "SN": 208,
+    "English": "Come Across",
+    "Okunus": "kam ekros",
+    "Türkçe": "Tesadüfen Karşılaşmak Veya\nBulmak"
+  },
+  {
+    "SN": 209,
+    "English": "Comet",
+    "Okunus": "kamit",
+    "Türkçe": "Kuyruklu Yıldız"
+  },
+  {
+    "SN": 210,
+    "English": "Commemorate",
+    "Okunus": "kımemoreyt",
+    "Türkçe": "Anmak (Kötü, Üzücü Bir Olayı)"
+  },
+  {
+    "SN": 211,
+    "English": "Commission",
+    "Okunus": "kamişın",
+    "Türkçe": "1)Atamak, Görevlendirmek\n2)Komisyon (Kurul, Ücret)"
+  },
+  {
+    "SN": 212,
+    "English": "Commit",
+    "Okunus": "kımit",
+    "Türkçe": "Suç İşlemek (To Commit Murder)"
+  },
+  {
+    "SN": 213,
+    "English": "Commitment",
+    "Okunus": "komitmınt",
+    "Türkçe": "1)Taahhüt 2)Sorumluluk"
+  },
+  {
+    "SN": 214,
+    "English": "Communicate",
+    "Okunus": "kımyunikeyt",
+    "Türkçe": "İletişim"
+  },
+  {
+    "SN": 215,
+    "English": "Commute",
+    "Okunus": "kımyut",
+    "Türkçe": "Evden İşe Hergün Uzun Yol Gidip\nGelmek"
+  },
+  {
+    "SN": 216,
+    "English": "Compensate",
+    "Okunus": "kompınseyt",
+    "Türkçe": "Telafi Etmek, Karşılamak"
+  },
+  {
+    "SN": 217,
+    "English": "Compensation",
+    "Okunus": "kompınseyşın",
+    "Türkçe": "Telafi, Tazminat"
+  },
+  {
+    "SN": 218,
+    "English": "Complicated",
+    "Okunus": "komplıkeytıd",
+    "Türkçe": "Karışık, Komplike"
+  },
+  {
+    "SN": 219,
+    "English": "Components",
+    "Okunus": "kımponınt",
+    "Türkçe": "Unsur, Parça, Bileşimde Bulunan"
+  },
+  {
+    "SN": 220,
+    "English": "Compose",
+    "Okunus": "kımpoz",
+    "Türkçe": "Yapım (Şiir, Şarkı, Sanat Eseri)"
+  },
+  {
+    "SN": 221,
+    "English": "Composition",
+    "Okunus": "kompızişın",
+    "Türkçe": "Kompozisyon, Birleşik"
+  },
+  {
+    "SN": 222,
+    "English": "Compromise",
+    "Okunus": "komprımayz",
+    "Türkçe": "Uzlaşma"
+  },
+  {
+    "SN": 223,
+    "English": "Computer",
+    "Okunus": "kompitür",
+    "Türkçe": "Bilgisayar"
+  },
+  {
+    "SN": 224,
+    "English": "Concentrate",
+    "Okunus": "konsıntreyt",
+    "Türkçe": "Konsantre, Yoğun"
+  },
+  {
+    "SN": 225,
+    "English": "Concept",
+    "Okunus": "konsept",
+    "Türkçe": "Genel Fikir, Düşünce, Anlayış\nI have no conception why."
+  },
+  {
+    "SN": 226,
+    "English": "Concern",
+    "Okunus": "konsöön",
+    "Türkçe": "İlgi, Üzüntü, Endişe"
+  },
+  {
+    "SN": 227,
+    "English": "Conclusion",
+    "Okunus": "kınkıluşın",
+    "Türkçe": "Karar, Sonuç"
+  },
+  {
+    "SN": 228,
+    "English": "Condemn",
+    "Okunus": "kındem",
+    "Türkçe": "1)Cezalandırmak 2)Mahkûm\nEtmek(Veya Zorunlu Kılmak)"
+  },
+  {
+    "SN": 229,
+    "English": "Conduct",
+    "Okunus": "kondakt",
+    "Türkçe": "Davranış, Tavır, Yol Göstermek"
+  },
+  {
+    "SN": 230,
+    "English": "Cone",
+    "Okunus": "kon",
+    "Türkçe": "1)Koni 2)Külah (Dondurma)"
+  },
+  {
+    "SN": 231,
+    "English": "Conference",
+    "Okunus": "konfırıns",
+    "Türkçe": "Konferans"
+  },
+  {
+    "SN": 232,
+    "English": "Confine",
+    "Okunus": "kınfayn",
+    "Türkçe": "Kuşatmak, Hapsetmek, Sınırlamak"
+  },
+  {
+    "SN": 233,
+    "English": "Conflict",
+    "Okunus": "konflıkt",
+    "Türkçe": "Çatışma, Çelişki"
+  },
+  {
+    "SN": 234,
+    "English": "Consent",
+    "Okunus": "kınsent",
+    "Türkçe": "Kabul Etme, Onaylama"
+  },
+  {
+    "SN": 235,
+    "English": "Consequently",
+    "Okunus": "konsikvıntly",
+    "Türkçe": "Bundan Dolayı, Sonuç Olarak,\nSonunda"
+  },
+  {
+    "SN": 236,
+    "English": "Consign",
+    "Okunus": "kınsayn",
+    "Türkçe": "1)Satış İçin Gönderme2)Başkasına\nDevretme(Sorumluluk"
+  },
+  {
+    "SN": 237,
+    "English": "Consistent",
+    "Okunus": "kansıstınt",
+    "Türkçe": "Tutarlı, Uyumlu (Kişi, Yazı Vb)"
+  },
+  {
+    "SN": 238,
+    "English": "Constitute",
+    "Okunus": "konstituut",
+    "Türkçe": "Oluşmak, Kurmak"
+  },
+  {
+    "SN": 239,
+    "English": "Constitution",
+    "Okunus": "konstituşın",
+    "Türkçe": "Anayasa"
+  },
+  {
+    "SN": 240,
+    "English": "Construct",
+    "Okunus": "kınstrak",
+    "Türkçe": "İnşa Etmek, Yapmak"
+  },
+  {
+    "SN": 241,
+    "English": "Consume",
+    "Okunus": "kınsyuum",
+    "Türkçe": "Tüketmek"
+  },
+  {
+    "SN": 242,
+    "English": "Consumption",
+    "Okunus": "kınsomşın",
+    "Türkçe": "Tüketim"
+  },
+  {
+    "SN": 243,
+    "English": "Contact",
+    "Okunus": "kontekt",
+    "Türkçe": "Temas, Dokunma"
+  },
+  {
+    "SN": 244,
+    "English": "Contest",
+    "Okunus": "kontest",
+    "Türkçe": "Yarışma"
+  },
+  {
+    "SN": 245,
+    "English": "Continent",
+    "Okunus": "kontınınt",
+    "Türkçe": "Kıta"
+  },
+  {
+    "SN": 246,
+    "English": "Contract",
+    "Okunus": "kontrekt",
+    "Türkçe": "Kontrat, Anlaşma"
+  },
+  {
+    "SN": 247,
+    "English": "Contribute",
+    "Okunus": "kıntrıbiyut",
+    "Türkçe": "Katkıda Bulunmak"
+  },
+  {
+    "SN": 248,
+    "English": "Convict",
+    "Okunus": "konvıkt",
+    "Türkçe": "Mahkum, Suçlu"
+  },
+  {
+    "SN": 249,
+    "English": "Convince",
+    "Okunus": "kınvins",
+    "Türkçe": "İkna Etmek"
+  },
+  {
+    "SN": 250,
+    "English": "Cope",
+    "Okunus": "kop",
+    "Türkçe": "Başa Çıkmak, Ayak Uydurmak"
+  },
+  {
+    "SN": 251,
+    "English": "Cordon",
+    "Okunus": "kordın",
+    "Türkçe": "1)Polis 2)Asker Kordonu"
+  },
+  {
+    "SN": 252,
+    "English": "Cork",
+    "Okunus": "kook",
+    "Türkçe": "Mantar ,(Cork-Screw: Mantar\nAçacağı)"
+  },
+  {
+    "SN": 253,
+    "English": "Corpse",
+    "Okunus": "korps",
+    "Türkçe": "Ceset"
+  },
+  {
+    "SN": 254,
+    "English": "Correspondent",
+    "Okunus": "korıspondınt",
+    "Türkçe": "1)Mektuplaşan, Mektuba Cevap\nVeren 2)Muhabir"
+  },
+  {
+    "SN": 255,
+    "English": "Corridor",
+    "Okunus": "koridoor",
+    "Türkçe": "Koridor"
+  },
+  {
+    "SN": 256,
+    "English": "Corruption",
+    "Okunus": "kırapşın",
+    "Türkçe": "Rüşvetçilik, Yolsuzluk"
+  },
+  {
+    "SN": 257,
+    "English": "Cosmetic",
+    "Okunus": "kozmetik",
+    "Türkçe": "Kozmetik"
+  },
+  {
+    "SN": 258,
+    "English": "Costume",
+    "Okunus": "kostiyum",
+    "Türkçe": "Kostüm"
+  },
+  {
+    "SN": 259,
+    "English": "Coupe",
+    "Okunus": "kupe",
+    "Türkçe": "Spor Araba"
+  },
+  {
+    "SN": 260,
+    "English": "Coupon",
+    "Okunus": "kuupon",
+    "Türkçe": "Kupon"
+  },
+  {
+    "SN": 261,
+    "English": "Cracker",
+    "Okunus": "krekır",
+    "Türkçe": "Kraker"
+  },
+  {
+    "SN": 262,
+    "English": "Cramp",
+    "Okunus": "kremp",
+    "Türkçe": "Kramp"
+  },
+  {
+    "SN": 263,
+    "English": "Crane",
+    "Okunus": "kreyn",
+    "Türkçe": "Vinç İle Kaldırmak, Vinç"
+  },
+  {
+    "SN": 264,
+    "English": "Credit",
+    "Okunus": "kredit",
+    "Türkçe": "Kredi"
+  },
+  {
+    "SN": 265,
+    "English": "Crisis",
+    "Okunus": "kraysız",
+    "Türkçe": "Kriz"
+  },
+  {
+    "SN": 266,
+    "English": "Crisp",
+    "Okunus": "krisp",
+    "Türkçe": "Cibs, Kızarmış Kuru Patates"
+  },
+  {
+    "SN": 267,
+    "English": "Crisp",
+    "Okunus": "krisp",
+    "Türkçe": "1)İnce 2)Kaş"
+  },
+  {
+    "SN": 268,
+    "English": "Critical",
+    "Okunus": "kritikıl",
+    "Türkçe": "Kritik"
+  },
+  {
+    "SN": 269,
+    "English": "Crocodile",
+    "Okunus": "krokıdayl",
+    "Türkçe": "Afrika Timsahı"
+  },
+  {
+    "SN": 270,
+    "English": "Crossword",
+    "Okunus": "krosvörd",
+    "Türkçe": "Çapraz Bulmaca"
+  },
+  {
+    "SN": 271,
+    "English": "Crow",
+    "Okunus": "kro",
+    "Türkçe": "1)Karga 2)Horoz Ötüşü"
+  },
+  {
+    "SN": 272,
+    "English": "Crucial",
+    "Okunus": "kuruşıl",
+    "Türkçe": "En Önemli An (Karar İρin Vb.)"
+  },
+  {
+    "SN": 273,
+    "English": "Crude",
+    "Okunus": "crud",
+    "Türkçe": "Petrol ( Crude Oil=Ham Petrol)"
+  },
+  {
+    "SN": 274,
+    "English": "Curry",
+    "Okunus": "köri",
+    "Türkçe": "Hafif Acılı"
+  },
+  {
+    "SN": 275,
+    "English": "Cushion",
+    "Okunus": "kuşın",
+    "Türkçe": "Yastık"
+  },
+  {
+    "SN": 276,
+    "English": "Cylinder",
+    "Okunus": "siylındır",
+    "Türkçe": "Silindir"
+  },
+  {
+    "SN": 277,
+    "English": "Daisy",
+    "Okunus": "deyzi",
+    "Türkçe": "Papatya"
+  },
+  {
+    "SN": 278,
+    "English": "Damage",
+    "Okunus": "demıρ",
+    "Türkçe": "Zarar, Zarar Vermek"
+  },
+  {
+    "SN": 279,
+    "English": "Darling",
+    "Okunus": "daling",
+    "Türkçe": "Sevgili"
+  },
+  {
+    "SN": 280,
+    "English": "Date",
+    "Okunus": "deyt",
+    "Türkçe": "1)Hurma 2)Randevu"
+  },
+  {
+    "SN": 281,
+    "English": "Deadline",
+    "Okunus": "dedlayn",
+    "Türkçe": "Mühlet, Son Teslim Tarihi"
+  },
+  {
+    "SN": 282,
+    "English": "Deadlock",
+    "Okunus": "dedlok",
+    "Türkçe": "1)Çıkmaz 2)Açmaz"
+  },
+  {
+    "SN": 283,
+    "English": "Deaf",
+    "Okunus": "def",
+    "Türkçe": "Sağır"
+  },
+  {
+    "SN": 284,
+    "English": "Debatable",
+    "Okunus": "dibeytıbıl",
+    "Türkçe": "Tartışabilinir"
+  },
+  {
+    "SN": 285,
+    "English": "Debate",
+    "Okunus": "dibeyt",
+    "Türkçe": "Tartışma"
+  },
+  {
+    "SN": 286,
+    "English": "Debt",
+    "Okunus": "det",
+    "Türkçe": "Borç"
+  },
+  {
+    "SN": 287,
+    "English": "Decay",
+    "Okunus": "dikey",
+    "Türkçe": "Çürümek, Bozulmak"
+  },
+  {
+    "SN": 288,
+    "English": "Decent",
+    "Okunus": "disınt",
+    "Türkçe": "Doğru, Haklı, İyi"
+  },
+  {
+    "SN": 289,
+    "English": "Decline",
+    "Okunus": "diklayn",
+    "Türkçe": "Azaltmak, Gerilemek, Düşmek"
+  },
+  {
+    "SN": 290,
+    "English": "Decrease",
+    "Okunus": "dikriis",
+    "Türkçe": "Azalmak"
+  },
+  {
+    "SN": 291,
+    "English": "Default",
+    "Okunus": "difolt",
+    "Türkçe": "İfa Etmeme, Hazır\nBulunmama(Default Payment=Ödememe)"
+  },
+  {
+    "SN": 292,
+    "English": "Defer",
+    "Okunus": "diför",
+    "Türkçe": "Geciktirme, Erteleme"
+  },
+  {
+    "SN": 293,
+    "English": "Deficit",
+    "Okunus": "defisit",
+    "Türkçe": "Açık (Budget Deficit=Bütçe Açığı)"
+  },
+  {
+    "SN": 294,
+    "English": "Definition",
+    "Okunus": "defineyşın",
+    "Türkçe": "Tanımlama"
+  },
+  {
+    "SN": 295,
+    "English": "Deliberately",
+    "Okunus": "dilibirıtli",
+    "Türkçe": "Kasten"
+  },
+  {
+    "SN": 296,
+    "English": "Demoralize",
+    "Okunus": "dimorılayz",
+    "Türkçe": "Cesaretini Kırmak, Moral Bozmak"
+  },
+  {
+    "SN": 297,
+    "English": "Dependent",
+    "Okunus": "dıpendınt",
+    "Türkçe": "Bağımlı (In Dependent: Bağımsız)"
+  },
+  {
+    "SN": 298,
+    "English": "Deputation",
+    "Okunus": "deputeyşın",
+    "Türkçe": "Vekillik"
+  },
+  {
+    "SN": 299,
+    "English": "Deputy",
+    "Okunus": "depyuti",
+    "Türkçe": "Vekil"
+  },
+  {
+    "SN": 300,
+    "English": "Desperate",
+    "Okunus": "despırit",
+    "Türkçe": "Umutsuz, Çok Ciddi"
+  },
+  {
+    "SN": 301,
+    "English": "Despite",
+    "Okunus": "dıspayt",
+    "Türkçe": "Rağmen"
+  },
+  {
+    "SN": 302,
+    "English": "Destination",
+    "Okunus": "destıneyşın",
+    "Türkçe": "Varış Noktası"
+  },
+  {
+    "SN": 303,
+    "English": "Detach",
+    "Okunus": "ditaρ",
+    "Türkçe": "Ayırmak"
+  },
+  {
+    "SN": 304,
+    "English": "Detective",
+    "Okunus": "dıdektiv",
+    "Türkçe": "Dedektif"
+  },
+  {
+    "SN": 305,
+    "English": "Dew",
+    "Okunus": "düu",
+    "Türkçe": "Kırağı (Nem)"
+  },
+  {
+    "SN": 306,
+    "English": "Diagram",
+    "Okunus": "dayıgrım",
+    "Türkçe": "Şema, Diyagram"
+  },
+  {
+    "SN": 307,
+    "English": "Diameter",
+    "Okunus": "dayametır",
+    "Türkçe": "Çap"
+  },
+  {
+    "SN": 308,
+    "English": "Dice",
+    "Okunus": "days",
+    "Türkçe": "Zarlar ( Tavla )"
+  },
+  {
+    "SN": 309,
+    "English": "Diet",
+    "Okunus": "dayt",
+    "Türkçe": "Rejim, Diyet"
+  },
+  {
+    "SN": 310,
+    "English": "Digest",
+    "Okunus": "daycest",
+    "Türkçe": "1)Hazm Etmek2)Olayı Kavramak\n3)Özet,Ana Felsefe,Kura"
+  },
+  {
+    "SN": 311,
+    "English": "Dim",
+    "Okunus": "dim",
+    "Türkçe": "Kısık, Sönük"
+  },
+  {
+    "SN": 312,
+    "English": "Dip",
+    "Okunus": "dıp",
+    "Türkçe": "Daldırmak"
+  },
+  {
+    "SN": 313,
+    "English": "Directory",
+    "Okunus": "direktiri",
+    "Türkçe": "Rehber (Telefon Vb.)"
+  },
+  {
+    "SN": 314,
+    "English": "Disaster",
+    "Okunus": "dızastır",
+    "Türkçe": "Felaket, Afet"
+  },
+  {
+    "SN": 315,
+    "English": "Disclose",
+    "Okunus": "diskloz",
+    "Türkçe": "Açığa, Meydana Çıkarmak,\nBilinmesini Sağlamak"
+  },
+  {
+    "SN": 316,
+    "English": "Disco",
+    "Okunus": "disko",
+    "Türkçe": "Disko"
+  },
+  {
+    "SN": 317,
+    "English": "Disgust",
+    "Okunus": "dısgast",
+    "Türkçe": "Tiksinti"
+  },
+  {
+    "SN": 318,
+    "English": "Dismay",
+    "Okunus": "dismey",
+    "Türkçe": "1)Süpriz 2)Üzüntü"
+  },
+  {
+    "SN": 319,
+    "English": "Dismay",
+    "Okunus": "dismey",
+    "Türkçe": "Korku, Dehşet"
+  },
+  {
+    "SN": 320,
+    "English": "Dispatch",
+    "Okunus": "dispeρ",
+    "Türkçe": "Sevk Etmek, Yollamak"
+  },
+  {
+    "SN": 321,
+    "English": "Displace",
+    "Okunus": "displeys",
+    "Türkçe": "Yerinden Çıkarmak (Kuvvet Etkisi\nİle)"
+  },
+  {
+    "SN": 322,
+    "English": "Distinction",
+    "Okunus": "dıstingşın",
+    "Türkçe": "Küçük Farklılık"
+  },
+  {
+    "SN": 323,
+    "English": "Dive",
+    "Okunus": "dayv",
+    "Türkçe": "Dalış"
+  },
+  {
+    "SN": 324,
+    "English": "Diver",
+    "Okunus": "dayvır",
+    "Türkçe": "Dalgıç"
+  },
+  {
+    "SN": 325,
+    "English": "Divorce",
+    "Okunus": "dıvöös",
+    "Türkçe": "Boşanmak"
+  },
+  {
+    "SN": 326,
+    "English": "Dominate",
+    "Okunus": "domineyt",
+    "Türkçe": "Hakim Olma"
+  },
+  {
+    "SN": 327,
+    "English": "Donate",
+    "Okunus": "doneyt",
+    "Türkçe": "Bağış Yapmak"
+  },
+  {
+    "SN": 328,
+    "English": "Donation",
+    "Okunus": "doneyşın",
+    "Türkçe": "Bağış"
+  },
+  {
+    "SN": 329,
+    "English": "Donor",
+    "Okunus": "donır",
+    "Türkçe": "Bağış Yapan,İyilik Sever (Organ,\nOkul Bağışı Vb.)"
+  },
+  {
+    "SN": 330,
+    "English": "Doom",
+    "Okunus": "duum",
+    "Türkçe": "Kötü Kader,Kör Talih"
+  },
+  {
+    "SN": 331,
+    "English": "Doomsday",
+    "Okunus": "duumsdey",
+    "Türkçe": "Ahiret Günü"
+  },
+  {
+    "SN": 332,
+    "English": "Dose",
+    "Okunus": "dos",
+    "Türkçe": "Bir Seferde Alınan İlaç Miktarı"
+  },
+  {
+    "SN": 333,
+    "English": "Down Payment",
+    "Okunus": "davn peymınt",
+    "Türkçe": "Peşin (Ödeme)"
+  },
+  {
+    "SN": 334,
+    "English": "Doze",
+    "Okunus": "doz",
+    "Türkçe": "Uyuklamak, Hafif Uyku"
+  },
+  {
+    "SN": 335,
+    "English": "Dozen",
+    "Okunus": "dozen",
+    "Türkçe": "Düzine"
+  },
+  {
+    "SN": 336,
+    "English": "Draft",
+    "Okunus": "draaft",
+    "Türkçe": "1)Suret, Müsvedde 2)Banka Çeki,\nÖdeme Emri"
+  },
+  {
+    "SN": 337,
+    "English": "Drag",
+    "Okunus": "dreg",
+    "Türkçe": "Sürüklemek"
+  },
+  {
+    "SN": 338,
+    "English": "Dragon",
+    "Okunus": "dregın",
+    "Türkçe": "Ejderha"
+  },
+  {
+    "SN": 339,
+    "English": "Drain",
+    "Okunus": "dreyn",
+    "Türkçe": "Lağım, Su Yolu"
+  },
+  {
+    "SN": 340,
+    "English": "Drama",
+    "Okunus": "draam",
+    "Türkçe": "Dram"
+  },
+  {
+    "SN": 341,
+    "English": "Draught",
+    "Okunus": "draaft",
+    "Türkçe": "Hava Akımı, Ceryan"
+  },
+  {
+    "SN": 342,
+    "English": "Draughts",
+    "Okunus": "draafts",
+    "Türkçe": "Dama Oyunu"
+  },
+  {
+    "SN": 343,
+    "English": "Drawer",
+    "Okunus": "drovır",
+    "Türkçe": "Çekmece, Göz"
+  },
+  {
+    "SN": 344,
+    "English": "Drawn",
+    "Okunus": "droovn",
+    "Türkçe": "Boğulmak"
+  },
+  {
+    "SN": 345,
+    "English": "Drug",
+    "Okunus": "drag",
+    "Türkçe": "Uyuşturucu Madde,İlaç"
+  },
+  {
+    "SN": 346,
+    "English": "Drum",
+    "Okunus": "dram",
+    "Türkçe": "1)Davul 2)Makara 3)Varil, Bidon"
+  },
+  {
+    "SN": 347,
+    "English": "Duck",
+    "Okunus": "dak",
+    "Türkçe": "1)Ördek 2)Başını Eğmek"
+  },
+  {
+    "SN": 348,
+    "English": "Duckling",
+    "Okunus": "dakling",
+    "Türkçe": "Küçük Ördek"
+  },
+  {
+    "SN": 349,
+    "English": "Duel",
+    "Okunus": "duyıl",
+    "Türkçe": "Düello"
+  },
+  {
+    "SN": 350,
+    "English": "Dustbin",
+    "Okunus": "dastbın",
+    "Türkçe": "Çöp Tenekesi"
+  },
+  {
+    "SN": 351,
+    "English": "Dye",
+    "Okunus": "day",
+    "Türkçe": "Boya, Boyamak (Saç,Kağıt Vb.)"
+  },
+  {
+    "SN": 352,
+    "English": "Dynamite",
+    "Okunus": "daynımeyt",
+    "Türkçe": "Dinamit"
+  },
+  {
+    "SN": 353,
+    "English": "Dynamo",
+    "Okunus": "daynımu",
+    "Türkçe": "Dinamo"
+  },
+  {
+    "SN": 354,
+    "English": "Dynasty",
+    "Okunus": "dınısti",
+    "Türkçe": "Hanedanlık"
+  },
+  {
+    "SN": 355,
+    "English": "Eagle",
+    "Okunus": "igıl",
+    "Türkçe": "Kartal"
+  },
+  {
+    "SN": 356,
+    "English": "Earthquake",
+    "Okunus": "örthkweik",
+    "Türkçe": "Deprem"
+  },
+  {
+    "SN": 357,
+    "English": "Eel",
+    "Okunus": "iil",
+    "Türkçe": "Yılan Balığı"
+  },
+  {
+    "SN": 358,
+    "English": "Elapse",
+    "Okunus": "ileps",
+    "Türkçe": "Zamanın Geçmesi (3 Days Have\nElapsed)"
+  },
+  {
+    "SN": 359,
+    "English": "Embark",
+    "Okunus": "imbark",
+    "Türkçe": "1)Gemi Yada Uçakla Gitmek\n2)Birşey Yapmaya Başlamak"
+  },
+  {
+    "SN": 360,
+    "English": "Embarrassment",
+    "Okunus": "imbarısmınt",
+    "Türkçe": "1)Sıkıntı 2)Utanmak"
+  },
+  {
+    "SN": 361,
+    "English": "Embrace",
+    "Okunus": "imbreys",
+    "Türkçe": "Sarılmak"
+  },
+  {
+    "SN": 362,
+    "English": "Emotion",
+    "Okunus": "imoşın",
+    "Türkçe": "Kuvvetli Duygu"
+  },
+  {
+    "SN": 363,
+    "English": "Emphasis",
+    "Okunus": "emfisıs",
+    "Türkçe": "Önemli,Şiddetli Vurgu"
+  },
+  {
+    "SN": 364,
+    "English": "Emphasize",
+    "Okunus": "emfısays",
+    "Türkçe": "Üzerinde Durmak"
+  },
+  {
+    "SN": 365,
+    "English": "Emphatic",
+    "Okunus": "imfetic",
+    "Türkçe": "Kesinlikle,Mutlak,Kesin(Emphatic\nVictory=Kesin Zafer"
+  },
+  {
+    "SN": 366,
+    "English": "Empire",
+    "Okunus": "empayır",
+    "Türkçe": "İmparatorluk"
+  },
+  {
+    "SN": 367,
+    "English": "Enormous",
+    "Okunus": "inormiyus",
+    "Türkçe": "Kocaman, İri"
+  },
+  {
+    "SN": 368,
+    "English": "Entitle",
+    "Okunus": "intaytıl",
+    "Türkçe": "Yetki Vermek, Hak Vermek"
+  },
+  {
+    "SN": 369,
+    "English": "Epitaph",
+    "Okunus": "epitaf",
+    "Türkçe": "Mezar Taşı Yazısı"
+  },
+  {
+    "SN": 370,
+    "English": "Equalize",
+    "Okunus": "ilkvılayz",
+    "Türkçe": "Eşitlemek"
+  },
+  {
+    "SN": 371,
+    "English": "Equip",
+    "Okunus": "ikvip",
+    "Türkçe": "Donatmak"
+  },
+  {
+    "SN": 372,
+    "English": "Equipment",
+    "Okunus": "ikvıpmınt",
+    "Türkçe": "Tesisat,Donanım"
+  },
+  {
+    "SN": 373,
+    "English": "Escort",
+    "Okunus": "eskort",
+    "Türkçe": "Konvoy,Refakat"
+  },
+  {
+    "SN": 374,
+    "English": "Estate",
+    "Okunus": "ısteyt",
+    "Türkçe": "1) Steyşın Araba 2) Mal, Mülk, Arsa"
+  },
+  {
+    "SN": 375,
+    "English": "Evacuate",
+    "Okunus": "ıveküueit",
+    "Türkçe": "1)Boşaltma,Tahliye Etmek\n2)Tehlikeden Uzaklaştırmak"
+  },
+  {
+    "SN": 376,
+    "English": "Evidence",
+    "Okunus": "evidıns",
+    "Türkçe": "Delil"
+  },
+  {
+    "SN": 377,
+    "English": "Evolution",
+    "Okunus": "ivulişın",
+    "Türkçe": "Evrim"
+  },
+  {
+    "SN": 378,
+    "English": "Ex",
+    "Okunus": "eks",
+    "Türkçe": "Sabık, Eski (Ex-Wife, Ex-President,\nEx-Gırl Friend)"
+  },
+  {
+    "SN": 379,
+    "English": "Exceed",
+    "Okunus": "iksid",
+    "Türkçe": "Aşırı"
+  },
+  {
+    "SN": 380,
+    "English": "Exclaim",
+    "Okunus": "ikskleym",
+    "Türkçe": "Bağırmak"
+  },
+  {
+    "SN": 381,
+    "English": "Exclusive",
+    "Okunus": "iksklusiiv",
+    "Türkçe": "Umuma Açık Olmayan, Başkalarıyla\nPaylaşılmayan"
+  },
+  {
+    "SN": 382,
+    "English": "Execute",
+    "Okunus": "eksikiyut",
+    "Türkçe": "Yapmak, Yerine Getirmek, İnfaz\nEtmek, İdam Etmek"
+  },
+  {
+    "SN": 383,
+    "English": "Exhaust",
+    "Okunus": "igzoost",
+    "Türkçe": "1)Yorulma,Bitme 2)Egzos"
+  },
+  {
+    "SN": 384,
+    "English": "Exhibit",
+    "Okunus": "igzıbit",
+    "Türkçe": "Teşhir Etmek, Göstermek"
+  },
+  {
+    "SN": 385,
+    "English": "Exhibition",
+    "Okunus": "ekzıbişın",
+    "Türkçe": "Sergi"
+  },
+  {
+    "SN": 386,
+    "English": "Expand",
+    "Okunus": "ıkspend",
+    "Türkçe": "1)Büyümek,Genişlemek2)Daha\nSamimi Ve Konuşkan Olmak"
+  },
+  {
+    "SN": 387,
+    "English": "Expansion",
+    "Okunus": "ıkspanşın",
+    "Türkçe": "1) Genişleme, Büyüme 2)\nGenişleyen Kısım, Ek"
+  },
+  {
+    "SN": 388,
+    "English": "Experiment",
+    "Okunus": "ıksperımınt",
+    "Türkçe": "Deney"
+  },
+  {
+    "SN": 389,
+    "English": "Expire",
+    "Okunus": "ikspayır",
+    "Türkçe": "Sürenin Dolması"
+  },
+  {
+    "SN": 390,
+    "English": "Explosive",
+    "Okunus": "iksplıusiv",
+    "Türkçe": "Patlayıcı Madde"
+  },
+  {
+    "SN": 391,
+    "English": "Export",
+    "Okunus": "eksport",
+    "Türkçe": "İhraç Malı, İhracat"
+  },
+  {
+    "SN": 392,
+    "English": "Extinguish",
+    "Okunus": "ikstingwişh",
+    "Türkçe": "Işığı Veya Ateşi Söndürmek"
+  },
+  {
+    "SN": 393,
+    "English": "Extreme",
+    "Okunus": "ikstriim",
+    "Türkçe": "Son Derece, Aşırı"
+  },
+  {
+    "SN": 394,
+    "English": "Eyebrow",
+    "Okunus": "aybrau",
+    "Türkçe": "Kaş"
+  },
+  {
+    "SN": 395,
+    "English": "Eyelash",
+    "Okunus": "ayleş",
+    "Türkçe": "Kirpik"
+  },
+  {
+    "SN": 396,
+    "English": "Eyelid",
+    "Okunus": "aylid",
+    "Türkçe": "Göz Kapağı"
+  },
+  {
+    "SN": 397,
+    "English": "Fable",
+    "Okunus": "feybıl",
+    "Türkçe": "Masal, Efsane"
+  },
+  {
+    "SN": 398,
+    "English": "Fabulous",
+    "Okunus": "febulıs",
+    "Türkçe": "Harika, İnanılmaz"
+  },
+  {
+    "SN": 399,
+    "English": "Fact",
+    "Okunus": "fek",
+    "Türkçe": "Gerçek"
+  },
+  {
+    "SN": 400,
+    "English": "Fake",
+    "Okunus": "feyk",
+    "Türkçe": "Taklit, Sahte"
+  },
+  {
+    "SN": 401,
+    "English": "Fame",
+    "Okunus": "feym",
+    "Türkçe": "Şöhret, Ün"
+  },
+  {
+    "SN": 402,
+    "English": "Fan",
+    "Okunus": "fen",
+    "Türkçe": "1)Hava Hareketi 2)Taraftar"
+  },
+  {
+    "SN": 403,
+    "English": "Fancy",
+    "Okunus": "fensi",
+    "Türkçe": "1)Hayal Kurma 2)Hoş Zevkli\n3)Fantazi"
+  },
+  {
+    "SN": 404,
+    "English": "Feature",
+    "Okunus": "fiiρır",
+    "Türkçe": "Özellik"
+  },
+  {
+    "SN": 405,
+    "English": "Fed Up",
+    "Okunus": "fedap",
+    "Türkçe": "Bıkmak (I’m Fed Up:Bıktım)"
+  },
+  {
+    "SN": 406,
+    "English": "Federal",
+    "Okunus": "fedırıl",
+    "Türkçe": "Federal, Federe, Grup İçinde\nBirleşmiş"
+  },
+  {
+    "SN": 407,
+    "English": "Ferry",
+    "Okunus": "feri",
+    "Türkçe": "Feribot, Araba Vapuru"
+  },
+  {
+    "SN": 408,
+    "English": "Fertile",
+    "Okunus": "förtaıl",
+    "Türkçe": "1)Gübre 2)Üretken"
+  },
+  {
+    "SN": 409,
+    "English": "Fertilize",
+    "Okunus": "förtılaız",
+    "Türkçe": "1)Gübreleme 2)Döllenme (Bees\nFertilize The Flowers)"
+  },
+  {
+    "SN": 410,
+    "English": "Festival",
+    "Okunus": "festıvıl",
+    "Türkçe": "Festival"
+  },
+  {
+    "SN": 411,
+    "English": "Fiance",
+    "Okunus": "fiansey",
+    "Türkçe": "Nişanlı"
+  },
+  {
+    "SN": 412,
+    "English": "Fiction",
+    "Okunus": "fikşın",
+    "Türkçe": "Kurgu (Roman)"
+  },
+  {
+    "SN": 413,
+    "English": "Fig",
+    "Okunus": "fig",
+    "Türkçe": "1)İncir 2)Çok Önemsiz Konu"
+  },
+  {
+    "SN": 414,
+    "English": "Fire-Brigade",
+    "Okunus": "fayı-brigeyd",
+    "Türkçe": "İtfaiye"
+  },
+  {
+    "SN": 415,
+    "English": "Fiscal",
+    "Okunus": "fiskıl",
+    "Türkçe": "Devletin,Para,Vergi,Borç İle İlişkili\n(Fiscal Year)"
+  },
+  {
+    "SN": 416,
+    "English": "Fist",
+    "Okunus": "fist",
+    "Türkçe": "Yumruk"
+  },
+  {
+    "SN": 417,
+    "English": "Flea",
+    "Okunus": "flii",
+    "Türkçe": "Pire"
+  },
+  {
+    "SN": 418,
+    "English": "Flee",
+    "Okunus": "flii",
+    "Türkçe": "Kaçmak"
+  },
+  {
+    "SN": 419,
+    "English": "Fleet",
+    "Okunus": "fliit",
+    "Türkçe": "Filo (Gemi Vb.)"
+  },
+  {
+    "SN": 420,
+    "English": "Flipper",
+    "Okunus": "flipır",
+    "Türkçe": "1) Yüzme Paleti, 2) Yüzgeç"
+  },
+  {
+    "SN": 421,
+    "English": "Florist",
+    "Okunus": "florıst",
+    "Türkçe": "Çiçekçi, Çiçek Yetiştiren Kimse"
+  },
+  {
+    "SN": 422,
+    "English": "Fluent",
+    "Okunus": "flüınt",
+    "Türkçe": "Akıcı"
+  },
+  {
+    "SN": 423,
+    "English": "Foam",
+    "Okunus": "fom",
+    "Türkçe": "Köpük"
+  },
+  {
+    "SN": 424,
+    "English": "Foam Rubber",
+    "Okunus": "fom rabır",
+    "Türkçe": "Sünger"
+  },
+  {
+    "SN": 425,
+    "English": "Folk",
+    "Okunus": "folk",
+    "Türkçe": "Halk"
+  },
+  {
+    "SN": 426,
+    "English": "Football",
+    "Okunus": "futbool",
+    "Türkçe": "Futbol"
+  },
+  {
+    "SN": 427,
+    "English": "Footprint",
+    "Okunus": "futprint",
+    "Türkçe": "Ayak İzi"
+  },
+  {
+    "SN": 428,
+    "English": "Foreman",
+    "Okunus": "formın",
+    "Türkçe": "Ustabaşı, Formen"
+  },
+  {
+    "SN": 429,
+    "English": "Forever",
+    "Okunus": "fırevır",
+    "Türkçe": "Devamlı Olarak"
+  },
+  {
+    "SN": 430,
+    "English": "Forge",
+    "Okunus": "forρ",
+    "Türkçe": "1)Sahtesini Yapmak 2)Demir\nMetale Şekil Vermek"
+  },
+  {
+    "SN": 431,
+    "English": "Forger",
+    "Okunus": "forcır",
+    "Türkçe": "Üçkağıtçı,Taklitçi"
+  },
+  {
+    "SN": 432,
+    "English": "Formal",
+    "Okunus": "formıl",
+    "Türkçe": "Resmi, Ciddi"
+  },
+  {
+    "SN": 433,
+    "English": "Forthwith",
+    "Okunus": "forthvit",
+    "Türkçe": "Derhal, Hemen"
+  },
+  {
+    "SN": 434,
+    "English": "Foul",
+    "Okunus": "fol",
+    "Türkçe": "Pis, Kirli"
+  },
+  {
+    "SN": 435,
+    "English": "Found",
+    "Okunus": "faund",
+    "Türkçe": "İnşa Etmek Veya Başlamak"
+  },
+  {
+    "SN": 436,
+    "English": "Fragile",
+    "Okunus": "freρayıl",
+    "Türkçe": "Kolay Kırılabir"
+  },
+  {
+    "SN": 437,
+    "English": "Frank",
+    "Okunus": "frenk",
+    "Türkçe": "Açık Sözlü, Samimi"
+  },
+  {
+    "SN": 438,
+    "English": "Freight",
+    "Okunus": "freyt",
+    "Türkçe": "Hamule, Navlun"
+  },
+  {
+    "SN": 439,
+    "English": "Fridge",
+    "Okunus": "fric",
+    "Türkçe": "Buzdolabı"
+  },
+  {
+    "SN": 440,
+    "English": "Frontier",
+    "Okunus": "frantier",
+    "Türkçe": "Sınır"
+  },
+  {
+    "SN": 441,
+    "English": "Fry",
+    "Okunus": "fray",
+    "Türkçe": "Kızartmak"
+  },
+  {
+    "SN": 442,
+    "English": "Full Stop",
+    "Okunus": "fulstop",
+    "Türkçe": "Nokta"
+  },
+  {
+    "SN": 443,
+    "English": "Fundamental",
+    "Okunus": "fandımentıl",
+    "Türkçe": "Temel, Önem, Çok Gerekli"
+  },
+  {
+    "SN": 444,
+    "English": "Funeral",
+    "Okunus": "füunırıl",
+    "Türkçe": "Cenaze"
+  },
+  {
+    "SN": 445,
+    "English": "Furthermore",
+    "Okunus": "fördırmor",
+    "Türkçe": "Yanında, Ayrıca, Üstelik\n(=Moreover)"
+  },
+  {
+    "SN": 446,
+    "English": "Fuse",
+    "Okunus": "füuz",
+    "Türkçe": "Sigorta (Elektrik Vb.)"
+  },
+  {
+    "SN": 447,
+    "English": "Fuss",
+    "Okunus": "faas",
+    "Türkçe": "Telaş, Telaşlanmak"
+  },
+  {
+    "SN": 448,
+    "English": "Gaol",
+    "Okunus": "jeil",
+    "Türkçe": "Hapishane"
+  },
+  {
+    "SN": 449,
+    "English": "Gay",
+    "Okunus": "gey",
+    "Türkçe": "1)Mutlu, Parlak, Çok Renkli 2)Homo"
+  },
+  {
+    "SN": 450,
+    "English": "Gear",
+    "Okunus": "giır",
+    "Türkçe": "Vites"
+  },
+  {
+    "SN": 451,
+    "English": "Germ",
+    "Okunus": "cörm",
+    "Türkçe": "Mikrop"
+  },
+  {
+    "SN": 452,
+    "English": "Ghost",
+    "Okunus": "gost",
+    "Türkçe": "Hayalet,Hortlak"
+  },
+  {
+    "SN": 453,
+    "English": "Gigolo",
+    "Okunus": "jigolo",
+    "Türkçe": "Jigolo"
+  },
+  {
+    "SN": 454,
+    "English": "Ginger",
+    "Okunus": "cincır",
+    "Türkçe": "Zencefil, Hafif Kahverengi"
+  },
+  {
+    "SN": 455,
+    "English": "Globe",
+    "Okunus": "glob",
+    "Türkçe": "Küre, Dünya"
+  },
+  {
+    "SN": 456,
+    "English": "Glue",
+    "Okunus": "glu",
+    "Türkçe": "Yapıştırıcı"
+  },
+  {
+    "SN": 457,
+    "English": "Goal",
+    "Okunus": "gol",
+    "Türkçe": "Hedef, Gaye, Gol"
+  },
+  {
+    "SN": 458,
+    "English": "Gossip",
+    "Okunus": "gosip",
+    "Türkçe": "Dedikodu Yapmak, Dedikodu"
+  },
+  {
+    "SN": 459,
+    "English": "Grapefruit",
+    "Okunus": "greypfruut",
+    "Türkçe": "Greyfurt"
+  },
+  {
+    "SN": 460,
+    "English": "Grateful",
+    "Okunus": "greytıfıl",
+    "Türkçe": "Minnettar"
+  },
+  {
+    "SN": 461,
+    "English": "Gravestone",
+    "Okunus": "grıyvıstun",
+    "Türkçe": "Mezartaşı"
+  },
+  {
+    "SN": 462,
+    "English": "Graveyard",
+    "Okunus": "greyvyard",
+    "Türkçe": "Mezarlık, Mezar"
+  },
+  {
+    "SN": 463,
+    "English": "Greengrocer",
+    "Okunus": "gıringırosır",
+    "Türkçe": "Manav"
+  },
+  {
+    "SN": 464,
+    "English": "Groom",
+    "Okunus": "gruum",
+    "Türkçe": "Damat"
+  },
+  {
+    "SN": 465,
+    "English": "Grumble",
+    "Okunus": "grambıl",
+    "Türkçe": "Sızlanmak,Yakınmak"
+  },
+  {
+    "SN": 466,
+    "English": "Guarantee",
+    "Okunus": "garentii",
+    "Türkçe": "Garanti"
+  },
+  {
+    "SN": 467,
+    "English": "Guided Missile",
+    "Okunus": "gaydıd misayl",
+    "Türkçe": "Yl GÜDÜMLÜ ROKET"
+  },
+  {
+    "SN": 468,
+    "English": "Guitar",
+    "Okunus": "gitaar",
+    "Türkçe": "Gitar"
+  },
+  {
+    "SN": 469,
+    "English": "Gulf",
+    "Okunus": "galf",
+    "Türkçe": "Körfez"
+  },
+  {
+    "SN": 470,
+    "English": "Guy",
+    "Okunus": "gay",
+    "Türkçe": "Adam"
+  },
+  {
+    "SN": 471,
+    "English": "Habitat",
+    "Okunus": "hebıtıt",
+    "Türkçe": "Doğal Yuva (Hayvan, Bitki Vb.\nYaşadığı Yer)"
+  },
+  {
+    "SN": 472,
+    "English": "Hairdresser",
+    "Okunus": "herdresır",
+    "Türkçe": "Kuvaför, Berber"
+  },
+  {
+    "SN": 473,
+    "English": "Hairdryer",
+    "Okunus": "herdrayır",
+    "Türkçe": "Saç Kurutma Makinası"
+  },
+  {
+    "SN": 474,
+    "English": "Halt",
+    "Okunus": "halt",
+    "Türkçe": "Dur"
+  },
+  {
+    "SN": 475,
+    "English": "Ham",
+    "Okunus": "hem",
+    "Türkçe": "Domuz Ayağındaki Et"
+  },
+  {
+    "SN": 476,
+    "English": "Hand Grenade",
+    "Okunus": "hend grineid",
+    "Türkçe": "El Bombası"
+  },
+  {
+    "SN": 477,
+    "English": "Handicap",
+    "Okunus": "hendikap",
+    "Türkçe": "Sakat"
+  },
+  {
+    "SN": 478,
+    "English": "Hang On",
+    "Okunus": "hengon",
+    "Türkçe": "Bekle"
+  },
+  {
+    "SN": 479,
+    "English": "Happen",
+    "Okunus": "hepın",
+    "Türkçe": "Olmak"
+  },
+  {
+    "SN": 480,
+    "English": "Head Quarters",
+    "Okunus": "hedkuartırs",
+    "Türkçe": "Merkez,Karargah"
+  },
+  {
+    "SN": 481,
+    "English": "Headline",
+    "Okunus": "hedlayn",
+    "Türkçe": "Başlık (Gazetede)"
+  },
+  {
+    "SN": 482,
+    "English": "Headphone",
+    "Okunus": "hedfon",
+    "Türkçe": "Kulaklık"
+  },
+  {
+    "SN": 483,
+    "English": "Hectare",
+    "Okunus": "hektar",
+    "Türkçe": "Hektar"
+  },
+  {
+    "SN": 484,
+    "English": "Heritage",
+    "Okunus": "heritıc",
+    "Türkçe": "Miras"
+  },
+  {
+    "SN": 485,
+    "English": "Hinge",
+    "Okunus": "hinρ",
+    "Türkçe": "1)Menteşe 2)Dayanak Noktası,\nDestek, Esas"
+  },
+  {
+    "SN": 486,
+    "English": "Hold On",
+    "Okunus": "hold on",
+    "Türkçe": "Bekle"
+  },
+  {
+    "SN": 487,
+    "English": "Holy",
+    "Okunus": "holi",
+    "Türkçe": "Kutsal"
+  },
+  {
+    "SN": 488,
+    "English": "Hook",
+    "Okunus": "huuk",
+    "Türkçe": "Çengel, Kanca"
+  },
+  {
+    "SN": 489,
+    "English": "Horizontal",
+    "Okunus": "horizantıl",
+    "Türkçe": "Yatay"
+  },
+  {
+    "SN": 490,
+    "English": "Hose",
+    "Okunus": "hoz",
+    "Türkçe": "Hortum"
+  },
+  {
+    "SN": 491,
+    "English": "Hubbub",
+    "Okunus": "habab",
+    "Türkçe": "Gürültü"
+  },
+  {
+    "SN": 492,
+    "English": "Hug",
+    "Okunus": "hag",
+    "Türkçe": "Sarılmak,Kucaklamak"
+  },
+  {
+    "SN": 493,
+    "English": "Huge",
+    "Okunus": "hüyρ",
+    "Türkçe": "Çok Büyük"
+  },
+  {
+    "SN": 494,
+    "English": "Human",
+    "Okunus": "huiymın",
+    "Türkçe": "İnsan, Beşeri"
+  },
+  {
+    "SN": 495,
+    "English": "Hush",
+    "Okunus": "haş",
+    "Türkçe": "Sakinlik,Sessizlik,Sus"
+  },
+  {
+    "SN": 496,
+    "English": "Hut",
+    "Okunus": "hat",
+    "Türkçe": "Kulübe, Baraka"
+  },
+  {
+    "SN": 497,
+    "English": "Idiot",
+    "Okunus": "idyıt",
+    "Türkçe": "Aptal"
+  },
+  {
+    "SN": 498,
+    "English": "Ignition",
+    "Okunus": "ignişın",
+    "Türkçe": "1)Tutuşma, Ateşleme, Ateş Alma\n2)Ateşleme Tertibatı"
+  },
+  {
+    "SN": 499,
+    "English": "Ignore",
+    "Okunus": "ignoor",
+    "Türkçe": "Önemsememek"
+  },
+  {
+    "SN": 500,
+    "English": "Illustrate",
+    "Okunus": "ilıstreyt",
+    "Türkçe": "Resimle Göstermek"
+  },
+  {
+    "SN": 501,
+    "English": "Imagination",
+    "Okunus": "imecıneyşın",
+    "Türkçe": "Tasavvur, Hayal"
+  },
+  {
+    "SN": 502,
+    "English": "Imagine",
+    "Okunus": "imecın",
+    "Türkçe": "Tasavvur Etmek, Hayal Etmek"
+  },
+  {
+    "SN": 503,
+    "English": "Imitate",
+    "Okunus": "imiteyt",
+    "Türkçe": "Örnek Almak, Taklit Etmek"
+  },
+  {
+    "SN": 504,
+    "English": "Imitation",
+    "Okunus": "imiteyşın",
+    "Türkçe": "Taklit"
+  },
+  {
+    "SN": 505,
+    "English": "Immoral",
+    "Okunus": "imorıl",
+    "Türkçe": "Ahlaksız, Edepsiz"
+  },
+  {
+    "SN": 506,
+    "English": "Impair",
+    "Okunus": "impeyır",
+    "Türkçe": "Bozmak"
+  },
+  {
+    "SN": 507,
+    "English": "Implement",
+    "Okunus": "ımplımınt",
+    "Türkçe": "1)Yürürlüğe Koymak 2)Alet"
+  },
+  {
+    "SN": 508,
+    "English": "Imply",
+    "Okunus": "implay",
+    "Türkçe": "İma Etme"
+  },
+  {
+    "SN": 509,
+    "English": "Impress",
+    "Okunus": "impıres",
+    "Türkçe": "Etkilemek"
+  },
+  {
+    "SN": 510,
+    "English": "Impressive",
+    "Okunus": "impıresiv",
+    "Türkçe": "Etkili,Etkileyici"
+  },
+  {
+    "SN": 511,
+    "English": "Incentive",
+    "Okunus": "insentiv",
+    "Türkçe": "Teşvik"
+  },
+  {
+    "SN": 512,
+    "English": "Incidentally",
+    "Okunus": "insidentli",
+    "Türkçe": "Bunun Yanında (=By The Way)"
+  },
+  {
+    "SN": 513,
+    "English": "Indefinite",
+    "Okunus": "indefinıt",
+    "Türkçe": "Belirsiz"
+  },
+  {
+    "SN": 514,
+    "English": "Indefinitely",
+    "Okunus": "indefinitli",
+    "Türkçe": "Sonsuz, Süresiz"
+  },
+  {
+    "SN": 515,
+    "English": "Indemnify",
+    "Okunus": "indemnifaı",
+    "Türkçe": "1)Tazminat Ödemek, Söz Vermek,\nZararı Karşılamak"
+  },
+  {
+    "SN": 516,
+    "English": "Indemnity",
+    "Okunus": "indemniti",
+    "Türkçe": "Tazminat"
+  },
+  {
+    "SN": 517,
+    "English": "Index",
+    "Okunus": "indeks",
+    "Türkçe": "İndex"
+  },
+  {
+    "SN": 518,
+    "English": "Individual",
+    "Okunus": "indivicul",
+    "Türkçe": "Ayrı, Birey, Fert, Kimse"
+  },
+  {
+    "SN": 519,
+    "English": "Indorse",
+    "Okunus": "indoos",
+    "Türkçe": "Çeki Cıro Etmek,Onaylamak"
+  },
+  {
+    "SN": 520,
+    "English": "Endorsement",
+    "Okunus": "indoosmınt",
+    "Türkçe": "Tastik,Onay,Cıro"
+  },
+  {
+    "SN": 521,
+    "English": "Inevitable",
+    "Okunus": "ınevıtıbl",
+    "Türkçe": "Kaçınılmaz, Herhalde Olan"
+  },
+  {
+    "SN": 522,
+    "English": "Infinite",
+    "Okunus": "ınfinit",
+    "Türkçe": "Sonsuz"
+  },
+  {
+    "SN": 523,
+    "English": "Inflammable",
+    "Okunus": "inflemıbıl",
+    "Türkçe": "Ateş Alabilir"
+  },
+  {
+    "SN": 524,
+    "English": "Inflate",
+    "Okunus": "infleyt",
+    "Türkçe": "Şişmek"
+  },
+  {
+    "SN": 525,
+    "English": "Inflation",
+    "Okunus": "infleyşın",
+    "Türkçe": "Enflasyon"
+  },
+  {
+    "SN": 526,
+    "English": "Inflexible",
+    "Okunus": "infleksıbıl",
+    "Türkçe": "Eğilmesi Zor, Bükülmez, İnatçı"
+  },
+  {
+    "SN": 527,
+    "English": "Initial",
+    "Okunus": "inişıl",
+    "Türkçe": "İlk Harf, Birinci, Baştaki,Paraf"
+  },
+  {
+    "SN": 528,
+    "English": "Initiative",
+    "Okunus": "inişıtiv",
+    "Türkçe": "İlk Hareket,Başlatma,İnsiyatif(Take\nThe İnitiative)"
+  },
+  {
+    "SN": 529,
+    "English": "Inject",
+    "Okunus": "incekt",
+    "Türkçe": "Şırınga Yapmak"
+  },
+  {
+    "SN": 530,
+    "English": "Innocent",
+    "Okunus": "inısınt",
+    "Türkçe": "Suçsuz, Masum"
+  },
+  {
+    "SN": 531,
+    "English": "Insecure",
+    "Okunus": "insikuır",
+    "Türkçe": "Emniyetsiz"
+  },
+  {
+    "SN": 532,
+    "English": "Insolvent",
+    "Okunus": "insolvınt",
+    "Türkçe": "Müflis"
+  },
+  {
+    "SN": 533,
+    "English": "Inspire",
+    "Okunus": "inspayır",
+    "Türkçe": "Akla, Fikre Getirme, Esinleme,\nİlham Gelmesi"
+  },
+  {
+    "SN": 534,
+    "English": "Instant",
+    "Okunus": "instınt",
+    "Türkçe": "Hızlı,Derhal"
+  },
+  {
+    "SN": 535,
+    "English": "Insulate",
+    "Okunus": "insuleyt",
+    "Türkçe": "İzole Etmek"
+  },
+  {
+    "SN": 536,
+    "English": "Insult",
+    "Okunus": "insalt",
+    "Türkçe": "Hakaret Etme, Onur Kırma"
+  },
+  {
+    "SN": 537,
+    "English": "Intangible",
+    "Okunus": "intencıbıl",
+    "Türkçe": "Manevi,Maddi Olmayan,Intangıble\nAsset=Maddi,Varlık"
+  },
+  {
+    "SN": 538,
+    "English": "Intense",
+    "Okunus": "intens",
+    "Türkçe": "Derin Üzüntü, Güçlü Duygu"
+  },
+  {
+    "SN": 539,
+    "English": "Intensive",
+    "Okunus": "intensiv",
+    "Türkçe": "Yoğun (Labour İntensive:Emek\nYoğun)"
+  },
+  {
+    "SN": 540,
+    "English": "Interfere",
+    "Okunus": "interfir",
+    "Türkçe": "1)Karışma Müdahele Etme\n2)Parazit Yapma (Tv,Radyo)"
+  },
+  {
+    "SN": 541,
+    "English": "Intestines",
+    "Okunus": "intestinz",
+    "Türkçe": "Bağırsaklar"
+  },
+  {
+    "SN": 542,
+    "English": "Invade",
+    "Okunus": "inveyd",
+    "Türkçe": "İstila Etmek"
+  },
+  {
+    "SN": 543,
+    "English": "Invoice",
+    "Okunus": "invoys",
+    "Türkçe": "Fatura"
+  },
+  {
+    "SN": 544,
+    "English": "Involve",
+    "Okunus": "involv",
+    "Türkçe": "İşe\nDalmak,Karışmak,Gerektirmek,İçer mek"
+  },
+  {
+    "SN": 545,
+    "English": "Ironically",
+    "Okunus": "ayronikli",
+    "Türkçe": "Tam Aksi Olma,İnadına(İnadına\nTatilde Yağmur Yağdı.)"
+  },
+  {
+    "SN": 546,
+    "English": "Irritate",
+    "Okunus": "iriteyt",
+    "Türkçe": "Kızdırmak, Sinirlendirmek, Tahriş\nEtmek (Deri Vb.)"
+  },
+  {
+    "SN": 547,
+    "English": "Itch",
+    "Okunus": "itρi",
+    "Türkçe": "Kaşındırmak"
+  },
+  {
+    "SN": 548,
+    "English": "Item",
+    "Okunus": "aytım",
+    "Türkçe": "Birim"
+  },
+  {
+    "SN": 549,
+    "English": "Jack",
+    "Okunus": "cek",
+    "Türkçe": "1)Kriko 2)Vale (Oyun Kağıdında)\n3)Torpil Yaptırmak"
+  },
+  {
+    "SN": 550,
+    "English": "Jackal",
+    "Okunus": "cekıl",
+    "Türkçe": "Çakal"
+  },
+  {
+    "SN": 551,
+    "English": "Jacket",
+    "Okunus": "cekıt",
+    "Türkçe": "Ceket"
+  },
+  {
+    "SN": 552,
+    "English": "Jaguar",
+    "Okunus": "ceguar",
+    "Türkçe": "Jaguar"
+  },
+  {
+    "SN": 553,
+    "English": "Jar",
+    "Okunus": "caar",
+    "Türkçe": "Kavanoz"
+  },
+  {
+    "SN": 554,
+    "English": "Jeans",
+    "Okunus": "ciinz",
+    "Türkçe": "Jin, Kot Pantolon (Pamuklu)"
+  },
+  {
+    "SN": 555,
+    "English": "Jelly",
+    "Okunus": "celi",
+    "Türkçe": "Jöle"
+  },
+  {
+    "SN": 556,
+    "English": "Jellyfish",
+    "Okunus": "celifiş",
+    "Türkçe": "Denizanası, Medüs, Su Medüsü"
+  },
+  {
+    "SN": 557,
+    "English": "Jockey",
+    "Okunus": "cokey",
+    "Türkçe": "Cokey"
+  },
+  {
+    "SN": 558,
+    "English": "Jubilee",
+    "Okunus": "cubılii",
+    "Türkçe": "Jübile"
+  },
+  {
+    "SN": 559,
+    "English": "Keen",
+    "Okunus": "kiin",
+    "Türkçe": "Keskin (Keen On:Hoşlanmak)"
+  },
+  {
+    "SN": 560,
+    "English": "Ketchup",
+    "Okunus": "ketρıp",
+    "Türkçe": "Ketçap"
+  },
+  {
+    "SN": 561,
+    "English": "Kidnap",
+    "Okunus": "kıdnep",
+    "Türkçe": "Zorla Kaçırmak (İnsan, Hayvan Vb.)"
+  },
+  {
+    "SN": 562,
+    "English": "Kidney",
+    "Okunus": "kidniy",
+    "Türkçe": "Böbrek"
+  },
+  {
+    "SN": 563,
+    "English": "Kin",
+    "Okunus": "kin",
+    "Türkçe": "Aile, Akraba"
+  },
+  {
+    "SN": 564,
+    "English": "Knight",
+    "Okunus": "nayt",
+    "Türkçe": "Silahşör, Şovalye, Satrançta At"
+  },
+  {
+    "SN": 565,
+    "English": "Knob",
+    "Okunus": "nob",
+    "Türkçe": "Tokmak, Tutacak"
+  },
+  {
+    "SN": 566,
+    "English": "Label",
+    "Okunus": "leybl",
+    "Türkçe": "Etiket"
+  },
+  {
+    "SN": 567,
+    "English": "Laboratory",
+    "Okunus": "lıborıtri",
+    "Türkçe": "Laboratuvar"
+  },
+  {
+    "SN": 568,
+    "English": "Ladle",
+    "Okunus": "leydıl",
+    "Türkçe": "Kepçe (Yemek)"
+  },
+  {
+    "SN": 569,
+    "English": "Lamppost",
+    "Okunus": "lembpost",
+    "Türkçe": "Sokak Lambası"
+  },
+  {
+    "SN": 570,
+    "English": "Lampshade",
+    "Okunus": "lempşeyd",
+    "Türkçe": "Abajur"
+  },
+  {
+    "SN": 571,
+    "English": "Lane",
+    "Okunus": "leyn",
+    "Türkçe": "Dar Yol, Şerit (Oto Yolda Vb.)"
+  },
+  {
+    "SN": 572,
+    "English": "Lash",
+    "Okunus": "leş",
+    "Türkçe": "Kamçı, Birşeyi Ani Ve Hızlı Sallamak"
+  },
+  {
+    "SN": 573,
+    "English": "Launch",
+    "Okunus": "lonρ",
+    "Türkçe": "Birşeye Başlamak, Roket Fırlatmak"
+  },
+  {
+    "SN": 574,
+    "English": "Laundry-Basket",
+    "Okunus": "londıribeskıt",
+    "Türkçe": "Çamaşır Sepeti"
+  },
+  {
+    "SN": 575,
+    "English": "League",
+    "Okunus": "liıg",
+    "Türkçe": "Birlik, Lig"
+  },
+  {
+    "SN": 576,
+    "English": "Leak",
+    "Okunus": "liik",
+    "Türkçe": "Akıntı, Sızmak"
+  },
+  {
+    "SN": 577,
+    "English": "Lease",
+    "Okunus": "liis",
+    "Türkçe": "Belirli Bir Zaman İçin Kiralama"
+  },
+  {
+    "SN": 578,
+    "English": "Lecture",
+    "Okunus": "lekρır",
+    "Türkçe": "Ders, Konferans Vermek"
+  },
+  {
+    "SN": 579,
+    "English": "Length",
+    "Okunus": "length",
+    "Türkçe": "Uzunluk"
+  },
+  {
+    "SN": 580,
+    "English": "Lettuce",
+    "Okunus": "letıs",
+    "Türkçe": "Salata, Kıvırcık"
+  },
+  {
+    "SN": 581,
+    "English": "Lever",
+    "Okunus": "liivır",
+    "Türkçe": "Kaldıraç, Manivala"
+  },
+  {
+    "SN": 582,
+    "English": "Liar",
+    "Okunus": "layır",
+    "Türkçe": "Yalancı"
+  },
+  {
+    "SN": 583,
+    "English": "Lick",
+    "Okunus": "lik",
+    "Türkçe": "Yalamak"
+  },
+  {
+    "SN": 584,
+    "English": "Lid",
+    "Okunus": "lid",
+    "Türkçe": "Kapak"
+  },
+  {
+    "SN": 585,
+    "English": "Lighter",
+    "Okunus": "laytır",
+    "Türkçe": "Çakmak"
+  },
+  {
+    "SN": 586,
+    "English": "Limit",
+    "Okunus": "limit",
+    "Türkçe": "Hat, Sınır, Limit"
+  },
+  {
+    "SN": 587,
+    "English": "Liquidate",
+    "Okunus": "likvideyt",
+    "Türkçe": "Tasfiye Etmek, Öldürme,\nKurtulmak, Başından Atmak"
+  },
+  {
+    "SN": 588,
+    "English": "Literature",
+    "Okunus": "litricır",
+    "Türkçe": "Edebiyat"
+  },
+  {
+    "SN": 589,
+    "English": "Litter",
+    "Okunus": "litır",
+    "Türkçe": "Çöp,Dağınıklık"
+  },
+  {
+    "SN": 590,
+    "English": "Liver",
+    "Okunus": "livır",
+    "Türkçe": "Karaciğer"
+  },
+  {
+    "SN": 591,
+    "English": "Loaf",
+    "Okunus": "lof",
+    "Türkçe": "Bütün Ekmek, Vakti Boşa Geçirmek"
+  },
+  {
+    "SN": 592,
+    "English": "Loan",
+    "Okunus": "lon",
+    "Türkçe": "Ödünç Vermek, Borç Vermek, Borç"
+  },
+  {
+    "SN": 593,
+    "English": "Lobster",
+    "Okunus": "lobstır",
+    "Türkçe": "İstakoz"
+  },
+  {
+    "SN": 594,
+    "English": "Locate",
+    "Okunus": "lokeyt",
+    "Türkçe": "Kurmak,Yerleştirmek"
+  },
+  {
+    "SN": 595,
+    "English": "Lonely",
+    "Okunus": "lanliy",
+    "Türkçe": "Yalnız, Kimsesiz"
+  },
+  {
+    "SN": 596,
+    "English": "Lorry",
+    "Okunus": "lori",
+    "Türkçe": "Kamyon"
+  },
+  {
+    "SN": 597,
+    "English": "Loyal",
+    "Okunus": "loyıl",
+    "Türkçe": "Sadık"
+  },
+  {
+    "SN": 598,
+    "English": "Loyalty",
+    "Okunus": "loyıltiy",
+    "Türkçe": "Sadakat,Bağlılık"
+  },
+  {
+    "SN": 599,
+    "English": "Magazine",
+    "Okunus": "magızin",
+    "Türkçe": "1)Silah Deposu 2)Magazin 3)Şarjür\n(Silahın)"
+  },
+  {
+    "SN": 600,
+    "English": "Magnet",
+    "Okunus": "magnit",
+    "Türkçe": "Mıknatıs"
+  },
+  {
+    "SN": 601,
+    "English": "Magnificent",
+    "Okunus": "megnıfısınt",
+    "Türkçe": "Azamet, İhtişam"
+  },
+  {
+    "SN": 602,
+    "English": "Magnifying-Glass",
+    "Okunus": "megnıfaing-\nglass",
+    "Türkçe": "Büyüteç"
+  },
+  {
+    "SN": 603,
+    "English": "Maid",
+    "Okunus": "meyd",
+    "Türkçe": "Kadın Hizmetçi"
+  },
+  {
+    "SN": 604,
+    "English": "Maintain",
+    "Okunus": "meynteyn",
+    "Türkçe": "1)Bakım Onarım 2)Eski Halinde\nKoruma 3)Destekleme"
+  },
+  {
+    "SN": 605,
+    "English": "Major",
+    "Okunus": "mecır",
+    "Türkçe": "1)Büyük, Önemli 2)Binbaşı\n(Orduda)"
+  },
+  {
+    "SN": 606,
+    "English": "Majority",
+    "Okunus": "mıcorıti",
+    "Türkçe": "Çoğunluk"
+  },
+  {
+    "SN": 607,
+    "English": "Maniac",
+    "Okunus": "meniyak",
+    "Türkçe": "Manyak"
+  },
+  {
+    "SN": 608,
+    "English": "Manual",
+    "Okunus": "menyul",
+    "Türkçe": "El İle Yapılan"
+  },
+  {
+    "SN": 609,
+    "English": "Manufacture",
+    "Okunus": "menufekρır",
+    "Türkçe": "Üretmek (Fab. Vb)"
+  },
+  {
+    "SN": 610,
+    "English": "Margin",
+    "Okunus": "maacın",
+    "Türkçe": "Marj, Katkı"
+  },
+  {
+    "SN": 611,
+    "English": "Marmalade",
+    "Okunus": "maamıleyd",
+    "Türkçe": "Marmelat"
+  },
+  {
+    "SN": 612,
+    "English": "Massacre",
+    "Okunus": "mesıkır",
+    "Türkçe": "Katliam, Katliam Yapmak"
+  },
+  {
+    "SN": 613,
+    "English": "Massive",
+    "Okunus": "mesiv",
+    "Türkçe": "Çok Büyük Ve Ağır"
+  },
+  {
+    "SN": 614,
+    "English": "Mat",
+    "Okunus": "met",
+    "Türkçe": "Hasır, Paspas"
+  },
+  {
+    "SN": 615,
+    "English": "Mate",
+    "Okunus": "meyt",
+    "Türkçe": "Arkadaş"
+  },
+  {
+    "SN": 616,
+    "English": "Mathematics",
+    "Okunus": "methemetiks",
+    "Türkçe": "Matematik"
+  },
+  {
+    "SN": 617,
+    "English": "Mattress",
+    "Okunus": "metrıs",
+    "Türkçe": "Yatak, Sedir"
+  },
+  {
+    "SN": 618,
+    "English": "Mature",
+    "Okunus": "meρur",
+    "Türkçe": "1)Olgun,Ergin(Hayvan,Meyve,İnsan\n)2)Vadesi Gelen(Ödem"
+  },
+  {
+    "SN": 619,
+    "English": "Maturity",
+    "Okunus": "meρuriti",
+    "Türkçe": "Olgunluk Zamanı, Vade Zamanı"
+  },
+  {
+    "SN": 620,
+    "English": "Maximum",
+    "Okunus": "mexsimum",
+    "Türkçe": "Maksimum, Azami"
+  },
+  {
+    "SN": 621,
+    "English": "Meadow",
+    "Okunus": "medo",
+    "Türkçe": "Çayır, Mera"
+  },
+  {
+    "SN": 622,
+    "English": "Mechanic",
+    "Okunus": "mikenik",
+    "Türkçe": "1)Makinist,Makina Ustası2)El\nSanatlarına Ait3)Mekani"
+  },
+  {
+    "SN": 623,
+    "English": "Medical",
+    "Okunus": "medıkıl",
+    "Türkçe": "Tıbbi"
+  },
+  {
+    "SN": 624,
+    "English": "Merely",
+    "Okunus": "miıli",
+    "Türkçe": "Sadece, Ancak"
+  },
+  {
+    "SN": 625,
+    "English": "Merge",
+    "Okunus": "mörc",
+    "Türkçe": "Birleşerek Kaybolma,\nKonsolidasyon (Şirket, Devlet)"
+  },
+  {
+    "SN": 626,
+    "English": "Merit",
+    "Okunus": "merit",
+    "Türkçe": "Haketmek, Değmek"
+  },
+  {
+    "SN": 627,
+    "English": "Might",
+    "Okunus": "mayt",
+    "Türkçe": "1)Kuvvet,Kudret 2)Belki (Might\nBe:Az İhtimalli.)"
+  },
+  {
+    "SN": 628,
+    "English": "Mike",
+    "Okunus": "mayk",
+    "Türkçe": "Mikrofon"
+  },
+  {
+    "SN": 629,
+    "English": "Mild",
+    "Okunus": "mayld",
+    "Türkçe": "1)Hafif 2)Yumuşak 2)Ilık"
+  },
+  {
+    "SN": 630,
+    "English": "Millet",
+    "Okunus": "milıt",
+    "Türkçe": "Darı"
+  },
+  {
+    "SN": 631,
+    "English": "Millionaire",
+    "Okunus": "milyıner",
+    "Türkçe": "Milyoner"
+  },
+  {
+    "SN": 632,
+    "English": "Mince",
+    "Okunus": "mins",
+    "Türkçe": "Kıyma (Et Vb.), Kıymak"
+  },
+  {
+    "SN": 633,
+    "English": "Miracle",
+    "Okunus": "mirıkıl",
+    "Türkçe": "Mucize"
+  },
+  {
+    "SN": 634,
+    "English": "Miser",
+    "Okunus": "mayzır",
+    "Türkçe": "Hasis, Cimri"
+  },
+  {
+    "SN": 635,
+    "English": "Miserable",
+    "Okunus": "mizrıbıl",
+    "Türkçe": "Sefil"
+  },
+  {
+    "SN": 636,
+    "English": "Misery",
+    "Okunus": "mısiri",
+    "Türkçe": "Sefalet"
+  },
+  {
+    "SN": 637,
+    "English": "Mislay",
+    "Okunus": "misley",
+    "Türkçe": "Nereye Koyduğunu Unutmak"
+  },
+  {
+    "SN": 638,
+    "English": "Mobile",
+    "Okunus": "mobayl",
+    "Türkçe": "Oynak,Hareketli"
+  },
+  {
+    "SN": 639,
+    "English": "Moisture",
+    "Okunus": "moısρır",
+    "Türkçe": "Nem"
+  },
+  {
+    "SN": 640,
+    "English": "Mole",
+    "Okunus": "mol",
+    "Türkçe": "1)Köstebek 2)Vücuttaki Ben"
+  },
+  {
+    "SN": 641,
+    "English": "Monument",
+    "Okunus": "monımınt",
+    "Türkçe": "Anıt, Abide"
+  },
+  {
+    "SN": 642,
+    "English": "Mood",
+    "Okunus": "muud",
+    "Türkçe": "Mizaç, Ruh Hali"
+  },
+  {
+    "SN": 643,
+    "English": "Moral",
+    "Okunus": "morıl",
+    "Türkçe": "Ahlak"
+  },
+  {
+    "SN": 644,
+    "English": "Morale",
+    "Okunus": "mıraal",
+    "Türkçe": "Moral"
+  },
+  {
+    "SN": 645,
+    "English": "Mortgage",
+    "Okunus": "morgeyρ",
+    "Türkçe": "İpotek"
+  },
+  {
+    "SN": 646,
+    "English": "Mosquito",
+    "Okunus": "mıskiito",
+    "Türkçe": "Sivrisinek"
+  },
+  {
+    "SN": 647,
+    "English": "Moss",
+    "Okunus": "mos",
+    "Türkçe": "Yosun (Nemli Yerlerde Oluşan)"
+  },
+  {
+    "SN": 648,
+    "English": "Motion",
+    "Okunus": "moşın",
+    "Türkçe": "Hareket, Önerme"
+  },
+  {
+    "SN": 649,
+    "English": "Motive",
+    "Okunus": "motiv",
+    "Türkçe": "1)Motivlenmek 2)Güdü"
+  },
+  {
+    "SN": 650,
+    "English": "Mud-Guard",
+    "Okunus": "madgard",
+    "Türkçe": "Çamurluk"
+  },
+  {
+    "SN": 651,
+    "English": "Multiply",
+    "Okunus": "maltıpılay",
+    "Türkçe": "Çarpmak, Çoğalmak"
+  },
+  {
+    "SN": 652,
+    "English": "Murmur",
+    "Okunus": "mörmır",
+    "Türkçe": "Mırıldanmak,Uğultu"
+  },
+  {
+    "SN": 653,
+    "English": "Muscle",
+    "Okunus": "masıl",
+    "Türkçe": "Pazu, Kas"
+  },
+  {
+    "SN": 654,
+    "English": "Museum",
+    "Okunus": "müuzım",
+    "Türkçe": "Müze"
+  },
+  {
+    "SN": 655,
+    "English": "Mushroom",
+    "Okunus": "maşrum",
+    "Türkçe": "Mantar"
+  },
+  {
+    "SN": 656,
+    "English": "Muslim",
+    "Okunus": "mazlım",
+    "Türkçe": "Müslüman"
+  },
+  {
+    "SN": 657,
+    "English": "Mustard",
+    "Okunus": "mastırd",
+    "Türkçe": "Hardal"
+  },
+  {
+    "SN": 658,
+    "English": "Mute",
+    "Okunus": "müut",
+    "Türkçe": "1)Sesiz 2)Dilsiz"
+  },
+  {
+    "SN": 659,
+    "English": "Mutter",
+    "Okunus": "matır",
+    "Türkçe": "Mırıldanmak, Kısık Sesle Söylenmek"
+  },
+  {
+    "SN": 660,
+    "English": "Mutual",
+    "Okunus": "müuρul",
+    "Türkçe": "Müşterek,İki Taraflı (Mutual\nFriend=Ortak Arkadaş)"
+  },
+  {
+    "SN": 661,
+    "English": "Napkin",
+    "Okunus": "nepkin",
+    "Türkçe": "Peçete"
+  },
+  {
+    "SN": 662,
+    "English": "Narrate",
+    "Okunus": "nıreyt",
+    "Türkçe": "Anlatmak, Söylemek"
+  },
+  {
+    "SN": 663,
+    "English": "Nasty",
+    "Okunus": "nasti",
+    "Türkçe": "Pis, Kötü Kokulu, Hoş Olmayan"
+  },
+  {
+    "SN": 664,
+    "English": "Naughty",
+    "Okunus": "noti",
+    "Türkçe": "Yaramaz (Naughty Child = Yaramaz\nΡocuk)"
+  },
+  {
+    "SN": 665,
+    "English": "Needless",
+    "Okunus": "nidless",
+    "Türkçe": "Lüzumsuz"
+  },
+  {
+    "SN": 666,
+    "English": "Negotiate",
+    "Okunus": "nigoşıeyt",
+    "Türkçe": "Görüşmek,Müzakere"
+  },
+  {
+    "SN": 667,
+    "English": "Network",
+    "Okunus": "netwörk",
+    "Türkçe": "Şebeke,Çalışma Ağı"
+  },
+  {
+    "SN": 668,
+    "English": "Nickname",
+    "Okunus": "nikneym",
+    "Türkçe": "Takılmış Ad, Lakap"
+  },
+  {
+    "SN": 669,
+    "English": "Nightmare",
+    "Okunus": "naytmeyr",
+    "Türkçe": "Kabus"
+  },
+  {
+    "SN": 670,
+    "English": "Nominate",
+    "Okunus": "nomineyd",
+    "Türkçe": "1)Aday Göstermek(Başkan V.B)\n2)Atamak,Görevlendirme"
+  },
+  {
+    "SN": 671,
+    "English": "Nonsense",
+    "Okunus": "nonsıs",
+    "Türkçe": "Saçma"
+  },
+  {
+    "SN": 672,
+    "English": "Notorious",
+    "Okunus": "nutoriyus",
+    "Türkçe": "Kötü Ünlü, Kötü Ün"
+  },
+  {
+    "SN": 673,
+    "English": "Novel",
+    "Okunus": "novıl",
+    "Türkçe": "Roman"
+  },
+  {
+    "SN": 674,
+    "English": "Nude",
+    "Okunus": "nüud",
+    "Türkçe": "Çıplak"
+  },
+  {
+    "SN": 675,
+    "English": "Nylon",
+    "Okunus": "naylon",
+    "Türkçe": "Naylon"
+  },
+  {
+    "SN": 676,
+    "English": "Oar",
+    "Okunus": "or",
+    "Türkçe": "Kürek"
+  },
+  {
+    "SN": 677,
+    "English": "Oasis",
+    "Okunus": "oesis",
+    "Türkçe": "Vaha"
+  },
+  {
+    "SN": 678,
+    "English": "Oblige",
+    "Okunus": "ıblayc",
+    "Türkçe": "1)Zorunlu Kılmak 2)Minettar\nKılmak3)Yapmak,Sağlamak"
+  },
+  {
+    "SN": 679,
+    "English": "Occur",
+    "Okunus": "ıkör",
+    "Türkçe": "Olmak"
+  },
+  {
+    "SN": 680,
+    "English": "Odd",
+    "Okunus": "od",
+    "Türkçe": "Tuhaf,Acaip"
+  },
+  {
+    "SN": 681,
+    "English": "Okay (Ok)",
+    "Okunus": "okey",
+    "Türkçe": "Peki, Tamam"
+  },
+  {
+    "SN": 682,
+    "English": "Old-Fashioned",
+    "Okunus": "old feyşınd",
+    "Türkçe": "Eski Moda"
+  },
+  {
+    "SN": 683,
+    "English": "Omelette",
+    "Okunus": "omlıt",
+    "Türkçe": "Omlet"
+  },
+  {
+    "SN": 684,
+    "English": "Omit",
+    "Okunus": "ımit",
+    "Türkçe": "Atlamak, Hariç Bırakmak"
+  },
+  {
+    "SN": 685,
+    "English": "Onion",
+    "Okunus": "anyın",
+    "Türkçe": "Soğan"
+  },
+  {
+    "SN": 686,
+    "English": "Option",
+    "Okunus": "opşın",
+    "Türkçe": "Seçme, Seçenek, Opsiyon"
+  },
+  {
+    "SN": 687,
+    "English": "Oral",
+    "Okunus": "orıl",
+    "Türkçe": "Sözlü"
+  },
+  {
+    "SN": 688,
+    "English": "Orbit",
+    "Okunus": "orbit",
+    "Türkçe": "Yörünge"
+  },
+  {
+    "SN": 689,
+    "English": "Orchard",
+    "Okunus": "orρıd",
+    "Türkçe": "Bostan"
+  },
+  {
+    "SN": 690,
+    "English": "Original",
+    "Okunus": "arıcınıl",
+    "Türkçe": "Orjinal, İlk, Yeni"
+  },
+  {
+    "SN": 691,
+    "English": "Oval",
+    "Okunus": "ovıl",
+    "Türkçe": "Oval"
+  },
+  {
+    "SN": 692,
+    "English": "Overdo",
+    "Okunus": "ovırdu",
+    "Türkçe": "Fazla Pişirmek, Fazla Yapmak"
+  },
+  {
+    "SN": 693,
+    "English": "Overdue",
+    "Okunus": "overduu",
+    "Türkçe": "Vadesi Geçmiş"
+  },
+  {
+    "SN": 694,
+    "English": "Overtake",
+    "Okunus": "ovırteyk",
+    "Türkçe": "Geçmek, Sollamak"
+  },
+  {
+    "SN": 695,
+    "English": "Overtime",
+    "Okunus": "ovırtaym",
+    "Türkçe": "Fazla Mesai"
+  },
+  {
+    "SN": 696,
+    "English": "Overwork",
+    "Okunus": "ovırvörk",
+    "Türkçe": "Fazla Çalışmak, Aşırı Çalışmak"
+  },
+  {
+    "SN": 697,
+    "English": "Owl",
+    "Okunus": "aul",
+    "Türkçe": "Baykuş"
+  },
+  {
+    "SN": 698,
+    "English": "Oxygen",
+    "Okunus": "oksıcın",
+    "Türkçe": "Oksijen"
+  },
+  {
+    "SN": 699,
+    "English": "Oyster",
+    "Okunus": "oistır",
+    "Türkçe": "İstiridye"
+  },
+  {
+    "SN": 700,
+    "English": "Packed",
+    "Okunus": "pekt",
+    "Türkçe": "Kalabalık, Bir Sürü İnsan"
+  },
+  {
+    "SN": 701,
+    "English": "Palm",
+    "Okunus": "paam",
+    "Türkçe": "1)Avuç 2)Palmiye Ağacı"
+  },
+  {
+    "SN": 702,
+    "English": "Panel",
+    "Okunus": "penıl",
+    "Türkçe": "Panel"
+  },
+  {
+    "SN": 703,
+    "English": "Pants",
+    "Okunus": "pents",
+    "Türkçe": "1)Don 2)Pantolon (Ame)"
+  },
+  {
+    "SN": 704,
+    "English": "Parachute",
+    "Okunus": "perışut",
+    "Türkçe": "Paraşüt"
+  },
+  {
+    "SN": 705,
+    "English": "Parade",
+    "Okunus": "pıreyd",
+    "Türkçe": "Resmi Geçit"
+  },
+  {
+    "SN": 706,
+    "English": "Participate",
+    "Okunus": "partısipeyt",
+    "Türkçe": "Başkalarıyla Birlikte Çalışma,\nOynama, Katılma"
+  },
+  {
+    "SN": 707,
+    "English": "Passive",
+    "Okunus": "pesiv",
+    "Türkçe": "Pasif, Eylemsiz"
+  },
+  {
+    "SN": 708,
+    "English": "Pasta",
+    "Okunus": "pesti",
+    "Türkçe": "Makarna (Hamurdan Yapılan\nŞeyler)"
+  },
+  {
+    "SN": 709,
+    "English": "Paste",
+    "Okunus": "peyst",
+    "Türkçe": "Beyaz Tutkal, Macun, Hamur"
+  },
+  {
+    "SN": 710,
+    "English": "Pastime",
+    "Okunus": "pastaym",
+    "Türkçe": "Hoş İyi Zaman"
+  },
+  {
+    "SN": 711,
+    "English": "Path",
+    "Okunus": "peth",
+    "Türkçe": "Patika, Küçük Yol"
+  },
+  {
+    "SN": 712,
+    "English": "Patrol",
+    "Okunus": "petrol",
+    "Türkçe": "Devriye"
+  },
+  {
+    "SN": 713,
+    "English": "Patron",
+    "Okunus": "petrın",
+    "Türkçe": "1)Destekleyici Kişi 2)Devamlı\nMüşteri"
+  },
+  {
+    "SN": 714,
+    "English": "Pause",
+    "Okunus": "poz",
+    "Türkçe": "Mola, Ara"
+  },
+  {
+    "SN": 715,
+    "English": "Paw",
+    "Okunus": "poo",
+    "Türkçe": "Hayvan Pençesi"
+  },
+  {
+    "SN": 716,
+    "English": "Pea",
+    "Okunus": "pii",
+    "Türkçe": "Bezelye"
+  },
+  {
+    "SN": 717,
+    "English": "Peach",
+    "Okunus": "piiρ",
+    "Türkçe": "Şeftali"
+  },
+  {
+    "SN": 718,
+    "English": "Peak",
+    "Okunus": "pik",
+    "Türkçe": "Zirve, Tepe"
+  },
+  {
+    "SN": 719,
+    "English": "Peanut",
+    "Okunus": "pinat",
+    "Türkçe": "Yer Fıstığı"
+  },
+  {
+    "SN": 720,
+    "English": "Pearl",
+    "Okunus": "pörl",
+    "Türkçe": "İnci"
+  },
+  {
+    "SN": 721,
+    "English": "Peasant",
+    "Okunus": "peznt",
+    "Türkçe": "Çiftçi, Köylü Kesim"
+  },
+  {
+    "SN": 722,
+    "English": "Pedal",
+    "Okunus": "pedıl",
+    "Türkçe": "Pedal"
+  },
+  {
+    "SN": 723,
+    "English": "Pedestrian",
+    "Okunus": "pidestriın",
+    "Türkçe": "Yaya Giden"
+  },
+  {
+    "SN": 724,
+    "English": "Peel",
+    "Okunus": "piil",
+    "Türkçe": "Kabuk Soymak (Meyve)"
+  },
+  {
+    "SN": 725,
+    "English": "Penknife",
+    "Okunus": "pen nayf",
+    "Türkçe": "Çakı"
+  },
+  {
+    "SN": 726,
+    "English": "Pension",
+    "Okunus": "penşın",
+    "Türkçe": "Emekli Maaşı"
+  },
+  {
+    "SN": 727,
+    "English": "Perfume",
+    "Okunus": "pörfyüüm",
+    "Türkçe": "Parfüm"
+  },
+  {
+    "SN": 728,
+    "English": "Peril",
+    "Okunus": "peril",
+    "Türkçe": "Büyük Tehlike"
+  },
+  {
+    "SN": 729,
+    "English": "Period",
+    "Okunus": "periid",
+    "Türkçe": "1)Çağ, Devir, Period 2)Adet (Hali)"
+  },
+  {
+    "SN": 730,
+    "English": "Permanent",
+    "Okunus": "pörmınınt",
+    "Türkçe": "Devamlı,Sürekli"
+  },
+  {
+    "SN": 731,
+    "English": "Persist",
+    "Okunus": "pesist",
+    "Türkçe": "Devam Etmek"
+  },
+  {
+    "SN": 732,
+    "English": "Pessimist",
+    "Okunus": "pesimist",
+    "Türkçe": "Kötümser"
+  },
+  {
+    "SN": 733,
+    "English": "Petrol Station",
+    "Okunus": "petrıl steyşın",
+    "Türkçe": "Benzinci"
+  },
+  {
+    "SN": 734,
+    "English": "Philosophy",
+    "Okunus": "fılosıfi",
+    "Türkçe": "Fizolofi"
+  },
+  {
+    "SN": 735,
+    "English": "Physical",
+    "Okunus": "fizıkıl",
+    "Türkçe": "Fiziksel"
+  },
+  {
+    "SN": 736,
+    "English": "Picket",
+    "Okunus": "pıkıt",
+    "Türkçe": "Grev Gözcüsü, Fabrika Önünde\nBekleme"
+  },
+  {
+    "SN": 737,
+    "English": "Pickle",
+    "Okunus": "pıkıl",
+    "Türkçe": "Turşu"
+  },
+  {
+    "SN": 738,
+    "English": "Pillow",
+    "Okunus": "pilow",
+    "Türkçe": "Yastık"
+  },
+  {
+    "SN": 739,
+    "English": "Pillowcase",
+    "Okunus": "pilokeys",
+    "Türkçe": "Yastık Kılıfı"
+  },
+  {
+    "SN": 740,
+    "English": "Pinch",
+    "Okunus": "pinρ",
+    "Türkçe": "Çimdiklemek, Sıkıştırmak (Kapıya\nVb.)"
+  },
+  {
+    "SN": 741,
+    "English": "Pincers",
+    "Okunus": "pinρırs",
+    "Türkçe": "1)Kerpeten 2)Kıskaç (Yengecin V.B.)"
+  },
+  {
+    "SN": 742,
+    "English": "Pioneer",
+    "Okunus": "paynır",
+    "Türkçe": "Öncü"
+  },
+  {
+    "SN": 743,
+    "English": "Pistol",
+    "Okunus": "pıstıl",
+    "Türkçe": "Tabanca"
+  },
+  {
+    "SN": 744,
+    "English": "Pity",
+    "Okunus": "piti",
+    "Türkçe": "Acımak (What A Pity : Ne Yazık)"
+  },
+  {
+    "SN": 745,
+    "English": "Plastic",
+    "Okunus": "plestik",
+    "Türkçe": "Plastik"
+  },
+  {
+    "SN": 746,
+    "English": "Platform",
+    "Okunus": "pletform",
+    "Türkçe": "1)Platform, Yüksekçe Yer, Kürsü\n2)Peron"
+  },
+  {
+    "SN": 747,
+    "English": "Playground",
+    "Okunus": "pleygraund",
+    "Türkçe": "Oyun Sahası"
+  },
+  {
+    "SN": 748,
+    "English": "Plum",
+    "Okunus": "plam",
+    "Türkçe": "1)Erik 2)Bonbon Sekeri"
+  },
+  {
+    "SN": 749,
+    "English": "Plumber",
+    "Okunus": "plamır",
+    "Türkçe": "Musluk Tamircisi"
+  },
+  {
+    "SN": 750,
+    "English": "Pole",
+    "Okunus": "pol",
+    "Türkçe": "1)Kutup 2)Direk, Kazık"
+  },
+  {
+    "SN": 751,
+    "English": "Porcelain",
+    "Okunus": "poselın",
+    "Türkçe": "Porselen"
+  },
+  {
+    "SN": 752,
+    "English": "Porter",
+    "Okunus": "pootır",
+    "Türkçe": "1)Hammal 2)Kapıcı"
+  },
+  {
+    "SN": 753,
+    "English": "Postage",
+    "Okunus": "postıρ",
+    "Türkçe": "Posta Ücreti"
+  },
+  {
+    "SN": 754,
+    "English": "Poverty",
+    "Okunus": "povitı",
+    "Türkçe": "Fakirlik"
+  },
+  {
+    "SN": 755,
+    "English": "Power Of Attorney",
+    "Okunus": "pavır ıv atörn",
+    "Türkçe": "Vekaletname"
+  },
+  {
+    "SN": 756,
+    "English": "Power-House",
+    "Okunus": "pauwırhaus",
+    "Türkçe": "1)Elektrik Santralı 2)Olağanüstü\nEnerjiye Sahip Şey"
+  },
+  {
+    "SN": 757,
+    "English": "Precious",
+    "Okunus": "presis",
+    "Türkçe": "Kıymetli, Çok Sevilen"
+  },
+  {
+    "SN": 758,
+    "English": "Precisely",
+    "Okunus": "prısayzlı",
+    "Türkçe": "Kesinlikle, Tam Manasıyla"
+  },
+  {
+    "SN": 759,
+    "English": "Prescription",
+    "Okunus": "priskrıpşın",
+    "Türkçe": "Reçete"
+  },
+  {
+    "SN": 760,
+    "English": "Preserve",
+    "Okunus": "prizörv",
+    "Türkçe": "Korumak,Konserve Yapmak"
+  },
+  {
+    "SN": 761,
+    "English": "Primarily",
+    "Okunus": "pramırili",
+    "Türkçe": "Ana Olarak"
+  },
+  {
+    "SN": 762,
+    "English": "Primary",
+    "Okunus": "praymeri",
+    "Türkçe": "1)Önceleri,Eskiden 2)Ana,Baş-\nPrimary Cause 3)İlk Oku"
+  },
+  {
+    "SN": 763,
+    "English": "Primitive",
+    "Okunus": "primitiv",
+    "Türkçe": "1)İlkel 2)Basit, Modası Geçmiş"
+  },
+  {
+    "SN": 764,
+    "English": "Priority",
+    "Okunus": "payoriti",
+    "Türkçe": "Öncelik"
+  },
+  {
+    "SN": 765,
+    "English": "Privilege",
+    "Okunus": "privılıρ",
+    "Türkçe": "İmtiyaz"
+  },
+  {
+    "SN": 766,
+    "English": "Process",
+    "Okunus": "proses",
+    "Türkçe": "İşlem"
+  },
+  {
+    "SN": 767,
+    "English": "Prohibit",
+    "Okunus": "prıhibit",
+    "Türkçe": "Yasaklamak"
+  },
+  {
+    "SN": 768,
+    "English": "Promote",
+    "Okunus": "prımot",
+    "Türkçe": "1)İlerleme,Terfi Etme\n2)Tanıtım(Ürün Vb.Satış İρin)"
+  },
+  {
+    "SN": 769,
+    "English": "Promotion",
+    "Okunus": "primoşın",
+    "Türkçe": "Terfi"
+  },
+  {
+    "SN": 770,
+    "English": "Propeller",
+    "Okunus": "prıpelır",
+    "Türkçe": "1)İleriye Yürüten Şey 2)Vapur Veya\nUçak Pervanesi"
+  },
+  {
+    "SN": 771,
+    "English": "Proportion",
+    "Okunus": "propoşın",
+    "Türkçe": "Orantı"
+  },
+  {
+    "SN": 772,
+    "English": "Prosecute",
+    "Okunus": "prasıkyut",
+    "Türkçe": "Takip Etmek, Kavuşturmak, Dava\nAçmak, Suçlamak"
+  },
+  {
+    "SN": 773,
+    "English": "Prostitution",
+    "Okunus": "prostıtuşın",
+    "Türkçe": "Fuhuş"
+  },
+  {
+    "SN": 774,
+    "English": "Proverb",
+    "Okunus": "provörb",
+    "Türkçe": "Ata Sözü"
+  },
+  {
+    "SN": 775,
+    "English": "Provocation",
+    "Okunus": "prıvıkeyşın",
+    "Türkçe": "Kışkırtma"
+  },
+  {
+    "SN": 776,
+    "English": "Provoke",
+    "Okunus": "prıvok",
+    "Türkçe": "Kışkırtmak, Kızdırmaya Neden\nOlmak"
+  },
+  {
+    "SN": 777,
+    "English": "Publicity",
+    "Okunus": "pablısiti",
+    "Türkçe": "İlan, Reklam, Yayınlama"
+  },
+  {
+    "SN": 778,
+    "English": "Pull Up",
+    "Okunus": "pull ap",
+    "Türkçe": "Aracı Durdurmak"
+  },
+  {
+    "SN": 779,
+    "English": "Pulse",
+    "Okunus": "pals",
+    "Türkçe": "Nabız, Vuruş"
+  },
+  {
+    "SN": 780,
+    "English": "Pumpkin",
+    "Okunus": "pampkin",
+    "Türkçe": "Kabak"
+  },
+  {
+    "SN": 781,
+    "English": "Punctual",
+    "Okunus": "pankρuıl",
+    "Türkçe": "Tam Zamanında"
+  },
+  {
+    "SN": 782,
+    "English": "Pure",
+    "Okunus": "püur",
+    "Türkçe": "Saf, Temiz"
+  },
+  {
+    "SN": 783,
+    "English": "Purse",
+    "Okunus": "pöös",
+    "Türkçe": "Küçük El Çantası"
+  },
+  {
+    "SN": 784,
+    "English": "Pyramid",
+    "Okunus": "piramit",
+    "Türkçe": "Piramit"
+  },
+  {
+    "SN": 785,
+    "English": "Qualified",
+    "Okunus": "kwolifayd",
+    "Türkçe": "Ehliyetli, Kalifiye"
+  },
+  {
+    "SN": 786,
+    "English": "Quota",
+    "Okunus": "kwotı",
+    "Türkçe": "Kota, Kontenjan"
+  },
+  {
+    "SN": 787,
+    "English": "Quote",
+    "Okunus": "kwot",
+    "Türkçe": "Aktarma, Söyleme"
+  },
+  {
+    "SN": 788,
+    "English": "Racket",
+    "Okunus": "rekit",
+    "Türkçe": "Raket"
+  },
+  {
+    "SN": 789,
+    "English": "Radar",
+    "Okunus": "reydır",
+    "Türkçe": "Radar"
+  },
+  {
+    "SN": 790,
+    "English": "Railing",
+    "Okunus": "reiling",
+    "Türkçe": "Bahce Parmaklıkları"
+  },
+  {
+    "SN": 791,
+    "English": "Ram",
+    "Okunus": "rem",
+    "Türkçe": "1)Koç 2)Vurmak, Toslamak"
+  },
+  {
+    "SN": 792,
+    "English": "Rash",
+    "Okunus": "raş",
+    "Türkçe": "1)Hızlı, Acele 2)Çil"
+  },
+  {
+    "SN": 793,
+    "English": "Rat",
+    "Okunus": "ret",
+    "Türkçe": "Sıçan"
+  },
+  {
+    "SN": 794,
+    "English": "Rear",
+    "Okunus": "rıir",
+    "Türkçe": "1)Yetiştirmek(İnsan,Kuş,Bitki)\n2)Arka,Arka Taraf"
+  },
+  {
+    "SN": 795,
+    "English": "Recession",
+    "Okunus": "riseşin",
+    "Türkçe": "Duraklama, Gerileme, Ekonomide\nDurgunluk"
+  },
+  {
+    "SN": 796,
+    "English": "Recipe",
+    "Okunus": "resipi",
+    "Türkçe": "Yemek Tarifi"
+  },
+  {
+    "SN": 797,
+    "English": "Recollect",
+    "Okunus": "rekılekt",
+    "Türkçe": "Hatırlamak"
+  },
+  {
+    "SN": 798,
+    "English": "Reconcile",
+    "Okunus": "rekınsaıl",
+    "Türkçe": "Uzlaşma, Anlaşma Yapmak"
+  },
+  {
+    "SN": 799,
+    "English": "Reconciliation",
+    "Okunus": "rekınsilieyşin",
+    "Türkçe": "Uzlaşma"
+  },
+  {
+    "SN": 800,
+    "English": "Referee",
+    "Okunus": "refiri",
+    "Türkçe": "Hakem"
+  },
+  {
+    "SN": 801,
+    "English": "Referendum",
+    "Okunus": "refırendum",
+    "Türkçe": "Referandum, Halk Oylaması"
+  },
+  {
+    "SN": 802,
+    "English": "Refill",
+    "Okunus": "rifıl",
+    "Türkçe": "Doldurmak"
+  },
+  {
+    "SN": 803,
+    "English": "Refreshments",
+    "Okunus": "rıfreşmınts",
+    "Türkçe": "Sandoviç, Tost, İçecek (Gar,İstasyon\nGibi Yerlerde)"
+  },
+  {
+    "SN": 804,
+    "English": "Refrigerator",
+    "Okunus": "refrıρıretır",
+    "Türkçe": "Buzdolabı"
+  },
+  {
+    "SN": 805,
+    "English": "Region",
+    "Okunus": "ricın",
+    "Türkçe": "Bölge"
+  },
+  {
+    "SN": 806,
+    "English": "Register",
+    "Okunus": "recıstır",
+    "Türkçe": "1)Kütük,Sicil,Kayıt 2)Regıster\nPost=Taahütlü Mektup"
+  },
+  {
+    "SN": 807,
+    "English": "Regulation",
+    "Okunus": "reguleyşın",
+    "Türkçe": "Yönetmelik, Yasa"
+  },
+  {
+    "SN": 808,
+    "English": "Relate",
+    "Okunus": "releyt",
+    "Türkçe": "Anlatmak, Nakletmek (Formal Tell)"
+  },
+  {
+    "SN": 809,
+    "English": "Relevant",
+    "Okunus": "relıvınt",
+    "Türkçe": "Bağıntılı, Konuyla İlişkili"
+  },
+  {
+    "SN": 810,
+    "English": "Reliable",
+    "Okunus": "rilaybıl",
+    "Türkçe": "Güvenilir"
+  },
+  {
+    "SN": 811,
+    "English": "Reluctant",
+    "Okunus": "rilanktınt",
+    "Türkçe": "İsteksiz Ve Bundan Dolayı İşi\nYapmayı Ağırdan Almak"
+  },
+  {
+    "SN": 812,
+    "English": "Remedy",
+    "Okunus": "remidi",
+    "Türkçe": "Çare"
+  },
+  {
+    "SN": 813,
+    "English": "Remit",
+    "Okunus": "rimit",
+    "Türkçe": "1)Affetmek,Bağışlamak2)Postayla\nPara Yollama-Havale"
+  },
+  {
+    "SN": 814,
+    "English": "Remittance",
+    "Okunus": "rimitıns",
+    "Türkçe": "Havele (Para)"
+  },
+  {
+    "SN": 815,
+    "English": "Reputation",
+    "Okunus": "reputeyşın",
+    "Türkçe": "İtibar,Ün"
+  },
+  {
+    "SN": 816,
+    "English": "Research",
+    "Okunus": "risörρ",
+    "Türkçe": "Araştırma"
+  },
+  {
+    "SN": 817,
+    "English": "Resent",
+    "Okunus": "rizent",
+    "Türkçe": "Hoşlanmamak, Kızmak"
+  },
+  {
+    "SN": 818,
+    "English": "Reside",
+    "Okunus": "rizaıd",
+    "Türkçe": "Oturmak, İkamet Etmek"
+  },
+  {
+    "SN": 819,
+    "English": "Resident",
+    "Okunus": "rezıdıns",
+    "Türkçe": "Bölgede Yaşayan, Oturan"
+  },
+  {
+    "SN": 820,
+    "English": "Respond",
+    "Okunus": "rispond",
+    "Türkçe": "Cevap Vermek"
+  },
+  {
+    "SN": 821,
+    "English": "Restore",
+    "Okunus": "ristor",
+    "Türkçe": "1)Geri Verme 2)Yeniden Kullanıma\nAçma"
+  },
+  {
+    "SN": 822,
+    "English": "Restrict",
+    "Okunus": "rıstrikt",
+    "Türkçe": "Sınırlamak"
+  },
+  {
+    "SN": 823,
+    "English": "Resume",
+    "Okunus": "rızuum",
+    "Türkçe": "Yeniden Başlamak"
+  },
+  {
+    "SN": 824,
+    "English": "Retail",
+    "Okunus": "riteil",
+    "Türkçe": "Parekende, Parekende Satış"
+  },
+  {
+    "SN": 825,
+    "English": "Retaliation",
+    "Okunus": "ritalieyşın",
+    "Türkçe": "İntikam, Tepki, Misilleme"
+  },
+  {
+    "SN": 826,
+    "English": "Revenue",
+    "Okunus": "revenüü",
+    "Türkçe": "Gelir"
+  },
+  {
+    "SN": 827,
+    "English": "Reverse",
+    "Okunus": "rivörs",
+    "Türkçe": "Ters, Arka (Reverse Gear = Geri\nVites)"
+  },
+  {
+    "SN": 828,
+    "English": "Revise",
+    "Okunus": "rıvayz",
+    "Türkçe": "Tekrar Gözden Geçirip Düzeltmek"
+  },
+  {
+    "SN": 829,
+    "English": "Revolution",
+    "Okunus": "revolışın",
+    "Türkçe": "Devrim"
+  },
+  {
+    "SN": 830,
+    "English": "Rid",
+    "Okunus": "rid",
+    "Türkçe": "Atmak, Fırlatmak (To Get Rid\nOf:Başından Atmak)"
+  },
+  {
+    "SN": 831,
+    "English": "Rifle",
+    "Okunus": "rayfıl",
+    "Türkçe": "Tüfek"
+  },
+  {
+    "SN": 832,
+    "English": "Rocket",
+    "Okunus": "rokıt",
+    "Türkçe": "Roket"
+  },
+  {
+    "SN": 833,
+    "English": "Roundabout",
+    "Okunus": "raundıbaut",
+    "Türkçe": "1)Dolambaçlı,Dolaylı 2)Ada-Trafikte\n3)Yaklaşık Olara"
+  },
+  {
+    "SN": 834,
+    "English": "Route",
+    "Okunus": "ruut",
+    "Türkçe": "Rota"
+  },
+  {
+    "SN": 835,
+    "English": "Rubber",
+    "Okunus": "rabır",
+    "Türkçe": "1)Lastik, Kauçuk 2)Silgi"
+  },
+  {
+    "SN": 836,
+    "English": "Rug",
+    "Okunus": "rag",
+    "Türkçe": "Küçük Halı, Kilim"
+  },
+  {
+    "SN": 837,
+    "English": "Ruin",
+    "Okunus": "ruin",
+    "Türkçe": "Harabe, Yıkım, Mahvetme"
+  },
+  {
+    "SN": 838,
+    "English": "Rust",
+    "Okunus": "rast",
+    "Türkçe": "Pas"
+  },
+  {
+    "SN": 839,
+    "English": "Sacrifice",
+    "Okunus": "sekrıfays",
+    "Türkçe": "Kurban, Fedakarlık"
+  },
+  {
+    "SN": 840,
+    "English": "Safari",
+    "Okunus": "sifaari",
+    "Türkçe": "Safari, Hayvan Avlama Yolculuğu"
+  },
+  {
+    "SN": 841,
+    "English": "Safety-Belt",
+    "Okunus": "seyftibelt",
+    "Türkçe": "Emniyet Kemeri"
+  },
+  {
+    "SN": 842,
+    "English": "Safety-Pin",
+    "Okunus": "seyftipin",
+    "Türkçe": "Çengelli İğne"
+  },
+  {
+    "SN": 843,
+    "English": "Salmon",
+    "Okunus": "semın",
+    "Türkçe": "1) Som Balığı 2) Sarımsı, Pembe\nRenk"
+  },
+  {
+    "SN": 844,
+    "English": "Saloon",
+    "Okunus": "sıluun",
+    "Türkçe": "1)Saloon Car = Normal Araba\n2)Salon 3)Gemi Salonu"
+  },
+  {
+    "SN": 845,
+    "English": "Salute",
+    "Okunus": "selüut",
+    "Türkçe": "Selam Vermek (Askerυ)"
+  },
+  {
+    "SN": 846,
+    "English": "Sample",
+    "Okunus": "sempıl",
+    "Türkçe": "Örnek, Numune"
+  },
+  {
+    "SN": 847,
+    "English": "Sandpaper",
+    "Okunus": "sendpeypır",
+    "Türkçe": "1) Zımpara Kağıdı 2) Zımparalamak"
+  },
+  {
+    "SN": 848,
+    "English": "Sardine",
+    "Okunus": "saadin",
+    "Türkçe": "Sardalya"
+  },
+  {
+    "SN": 849,
+    "English": "Satellite",
+    "Okunus": "setilayt",
+    "Türkçe": "Uydu"
+  },
+  {
+    "SN": 850,
+    "English": "Satin",
+    "Okunus": "setin",
+    "Türkçe": "Saten, Atlas"
+  },
+  {
+    "SN": 851,
+    "English": "Sauce",
+    "Okunus": "soıs",
+    "Türkçe": "Salça, Sos"
+  },
+  {
+    "SN": 852,
+    "English": "Saucepan",
+    "Okunus": "soospen",
+    "Türkçe": "Tava"
+  },
+  {
+    "SN": 853,
+    "English": "Saucer",
+    "Okunus": "soosır",
+    "Türkçe": "Bardak Altlığı"
+  },
+  {
+    "SN": 854,
+    "English": "Sausage",
+    "Okunus": "sosıρ",
+    "Türkçe": "Sosis"
+  },
+  {
+    "SN": 855,
+    "English": "Savage",
+    "Okunus": "seviρ",
+    "Türkçe": "Vahşi,Yabani,Yırtıcı"
+  },
+  {
+    "SN": 856,
+    "English": "Savour",
+    "Okunus": "seyvır",
+    "Türkçe": "Tat, Lezzet, Çeşni"
+  },
+  {
+    "SN": 857,
+    "English": "Saw",
+    "Okunus": "soo",
+    "Türkçe": "1)Testere 2)Görmek (See’nin Past\nTens’i)"
+  },
+  {
+    "SN": 858,
+    "English": "Saxophone",
+    "Okunus": "seksifon",
+    "Türkçe": "Saksafon"
+  },
+  {
+    "SN": 859,
+    "English": "Scandal",
+    "Okunus": "skendıl",
+    "Türkçe": "Skandal"
+  },
+  {
+    "SN": 860,
+    "English": "Scare",
+    "Okunus": "skeir",
+    "Türkçe": "Korkutmak"
+  },
+  {
+    "SN": 861,
+    "English": "Scarf",
+    "Okunus": "skaaf",
+    "Türkçe": "Atkı"
+  },
+  {
+    "SN": 862,
+    "English": "Scene",
+    "Okunus": "siin",
+    "Türkçe": "Olayın Geçtiği Yer, Manzara,\nTiyatronun Bir Sahnesi"
+  },
+  {
+    "SN": 863,
+    "English": "Scheme",
+    "Okunus": "skiim",
+    "Türkçe": "Plan, Proje"
+  },
+  {
+    "SN": 864,
+    "English": "Scholarship",
+    "Okunus": "skılırşip",
+    "Türkçe": "Burs"
+  },
+  {
+    "SN": 865,
+    "English": "Scone",
+    "Okunus": "skon",
+    "Türkçe": "Bir Çeşit Üzümlü Ekmek Ve Tereyağ"
+  },
+  {
+    "SN": 866,
+    "English": "Scorpion",
+    "Okunus": "skorpion",
+    "Türkçe": "Akrep"
+  },
+  {
+    "SN": 867,
+    "English": "Scramble",
+    "Okunus": "skrımbıl",
+    "Türkçe": "1)Çırpmak 2)Hızlı Hareket Veya\nTırmanış"
+  },
+  {
+    "SN": 868,
+    "English": "Scruff",
+    "Okunus": "skraf",
+    "Türkçe": "1)Ense 2)Kirli,Pasaklı İnsan"
+  },
+  {
+    "SN": 869,
+    "English": "Seal",
+    "Okunus": "siil",
+    "Türkçe": "1)Mühürlemek, (Kutu,Mektup,Kapı\nVb.) 2)Fok Balığı"
+  },
+  {
+    "SN": 870,
+    "English": "Seaside",
+    "Okunus": "sisayd",
+    "Türkçe": "Deniz Kenarı"
+  },
+  {
+    "SN": 871,
+    "English": "Seat-Belt",
+    "Okunus": "sit belt",
+    "Türkçe": "Emniyet Kemeri"
+  },
+  {
+    "SN": 872,
+    "English": "Second-Rate",
+    "Okunus": "sekınd reyt",
+    "Türkçe": "İkinci Derece, Kalite"
+  },
+  {
+    "SN": 873,
+    "English": "Secure",
+    "Okunus": "seküür",
+    "Türkçe": "Emniyetli, Sağlam"
+  },
+  {
+    "SN": 874,
+    "English": "See Over",
+    "Okunus": "siovır",
+    "Türkçe": "İmtihan Etmek, Çek Etmek"
+  },
+  {
+    "SN": 875,
+    "English": "Segment",
+    "Okunus": "segmınt",
+    "Türkçe": "Dilim (Pasta, Portakal), Dilimlemek,\nBölmek"
+  },
+  {
+    "SN": 876,
+    "English": "Senate",
+    "Okunus": "senit",
+    "Türkçe": "Senato"
+  },
+  {
+    "SN": 877,
+    "English": "Senior",
+    "Okunus": "sinyır",
+    "Türkçe": "Yaşça Veya Kıdemce Büyük"
+  },
+  {
+    "SN": 878,
+    "English": "Sergeant",
+    "Okunus": "sarcınt",
+    "Türkçe": "Çavuş"
+  },
+  {
+    "SN": 879,
+    "English": "Serviette",
+    "Okunus": "sörviyet",
+    "Türkçe": "Peçete"
+  },
+  {
+    "SN": 880,
+    "English": "Set Off, Out",
+    "Okunus": "set of,set aut",
+    "Türkçe": "T Seyahate Başlamk, Yola Çıkmak"
+  },
+  {
+    "SN": 881,
+    "English": "Set On",
+    "Okunus": "set on",
+    "Türkçe": "Atak"
+  },
+  {
+    "SN": 882,
+    "English": "Sex",
+    "Okunus": "seks",
+    "Türkçe": "Cinsiyet, Cins"
+  },
+  {
+    "SN": 883,
+    "English": "Shallow",
+    "Okunus": "şelow",
+    "Türkçe": "Sığ"
+  },
+  {
+    "SN": 884,
+    "English": "Shampoo",
+    "Okunus": "şempuu",
+    "Türkçe": "Şampuan, Baş Yıkamak"
+  },
+  {
+    "SN": 885,
+    "English": "Shark",
+    "Okunus": "şark",
+    "Türkçe": "Köpek Balığı"
+  },
+  {
+    "SN": 886,
+    "English": "Sharp Shooter",
+    "Okunus": "şarpşutır",
+    "Türkçe": "Keskin Nişancı"
+  },
+  {
+    "SN": 887,
+    "English": "Shave",
+    "Okunus": "şeyv",
+    "Türkçe": "Tıraş"
+  },
+  {
+    "SN": 888,
+    "English": "Shelf",
+    "Okunus": "şelf",
+    "Türkçe": "Raf"
+  },
+  {
+    "SN": 889,
+    "English": "Shield",
+    "Okunus": "şiild",
+    "Türkçe": "Kalkan, Kılıf"
+  },
+  {
+    "SN": 890,
+    "English": "Shift",
+    "Okunus": "şift",
+    "Türkçe": "1)Değiştirme 2)Vardiye"
+  },
+  {
+    "SN": 891,
+    "English": "Shoelace",
+    "Okunus": "şuu leys",
+    "Türkçe": "Ayakkabı Bağı"
+  },
+  {
+    "SN": 892,
+    "English": "Shoot Down",
+    "Okunus": "şut daun",
+    "Türkçe": "İmha Etmek, Hayır Cevabı, Olumsuz"
+  },
+  {
+    "SN": 893,
+    "English": "Short Cut",
+    "Okunus": "şortkat",
+    "Türkçe": "Kestirme"
+  },
+  {
+    "SN": 894,
+    "English": "Shortage",
+    "Okunus": "sortıρ",
+    "Türkçe": "Yokluk, Kıtlık"
+  },
+  {
+    "SN": 895,
+    "English": "Shrink",
+    "Okunus": "şringk",
+    "Türkçe": "Çekmek, Küçülmek"
+  },
+  {
+    "SN": 896,
+    "English": "Significant",
+    "Okunus": "sinifıkınt",
+    "Türkçe": "Manalı, Önemli"
+  },
+  {
+    "SN": 897,
+    "English": "Signpost",
+    "Okunus": "saynpost",
+    "Türkçe": "İşaret Direği"
+  },
+  {
+    "SN": 898,
+    "English": "Silly",
+    "Okunus": "sili",
+    "Türkçe": "Budala, Aptal"
+  },
+  {
+    "SN": 899,
+    "English": "Silo",
+    "Okunus": "saylo",
+    "Türkçe": "Silo, Depo"
+  },
+  {
+    "SN": 900,
+    "English": "Sincere",
+    "Okunus": "sinsiır",
+    "Türkçe": "İçten, Samimi, Sahte Olmayan"
+  },
+  {
+    "SN": 901,
+    "English": "Singular",
+    "Okunus": "singulır",
+    "Türkçe": "Acaip, Tek, Eşsiz"
+  },
+  {
+    "SN": 902,
+    "English": "Siren",
+    "Okunus": "saırın",
+    "Türkçe": "Siren"
+  },
+  {
+    "SN": 903,
+    "English": "Skim",
+    "Okunus": "skim",
+    "Türkçe": "Köpük, Yağını Almak (Süt, Yoğurt),\nAna Fikri Almak"
+  },
+  {
+    "SN": 904,
+    "English": "Skull",
+    "Okunus": "skal",
+    "Türkçe": "Kafatası"
+  },
+  {
+    "SN": 905,
+    "English": "Slice",
+    "Okunus": "slays",
+    "Türkçe": "Dilim, Dilimlemek"
+  },
+  {
+    "SN": 906,
+    "English": "Slipper",
+    "Okunus": "slipır",
+    "Türkçe": "Terlik"
+  },
+  {
+    "SN": 907,
+    "English": "Slot",
+    "Okunus": "slot",
+    "Türkçe": "Uzun, Düz Delik, Boşluk, Jeton\nKoyma Yeri Vb."
+  },
+  {
+    "SN": 908,
+    "English": "Smart",
+    "Okunus": "smart",
+    "Türkçe": "1)Akıllı 2)Açıkgöz 3)Şık"
+  },
+  {
+    "SN": 909,
+    "English": "Smuggle",
+    "Okunus": "smagıl",
+    "Türkçe": "Kaçakçılık (Gümrük,İρki,Esrar V.B.)"
+  },
+  {
+    "SN": 910,
+    "English": "Snack",
+    "Okunus": "snek",
+    "Türkçe": "Küçük, Hızlı Yenilen Yemek"
+  },
+  {
+    "SN": 911,
+    "English": "Snag",
+    "Okunus": "sneg",
+    "Türkçe": "Pürüz"
+  },
+  {
+    "SN": 912,
+    "English": "Snub",
+    "Okunus": "snab",
+    "Türkçe": "Küçümsemek,Hakir Görmek"
+  },
+  {
+    "SN": 913,
+    "English": "So Far",
+    "Okunus": "so far",
+    "Türkçe": "Şimdiye Kadar (=Up To Now)"
+  },
+  {
+    "SN": 914,
+    "English": "Soak",
+    "Okunus": "sok",
+    "Türkçe": "Islatmak"
+  },
+  {
+    "SN": 915,
+    "English": "Soccer",
+    "Okunus": "sokır",
+    "Türkçe": "Futbol"
+  },
+  {
+    "SN": 916,
+    "English": "Social",
+    "Okunus": "soşıl",
+    "Türkçe": "Sosyal"
+  },
+  {
+    "SN": 917,
+    "English": "Sock",
+    "Okunus": "sak",
+    "Türkçe": "1)Çorap 2)Vurmak,Kırmak 3)Put A\nSock In It = Susmak"
+  },
+  {
+    "SN": 918,
+    "English": "Solidarity",
+    "Okunus": "soliderıti",
+    "Türkçe": "Dayanışma"
+  },
+  {
+    "SN": 919,
+    "English": "Sophisticated",
+    "Okunus": "sofistikeyt",
+    "Türkçe": "İncelikli Sosyal Hayattan\nBilgisiolan,Ukala,Karışık"
+  },
+  {
+    "SN": 920,
+    "English": "Souvenir",
+    "Okunus": "suuvenır",
+    "Türkçe": "Hatıra"
+  },
+  {
+    "SN": 921,
+    "English": "Span",
+    "Okunus": "spen",
+    "Türkçe": "1) İki Limit Arasındaki Şey, Zaman\nVb. 2) Karış"
+  },
+  {
+    "SN": 922,
+    "English": "Spanner",
+    "Okunus": "spenir",
+    "Türkçe": "Somun Sıkma Aleti(Adjustable\nSpanner=İngiliz Anahtar"
+  },
+  {
+    "SN": 923,
+    "English": "Spectacular",
+    "Okunus": "spektıkulır",
+    "Türkçe": "Görülmeye Değer"
+  },
+  {
+    "SN": 924,
+    "English": "Spectator",
+    "Okunus": "spekteytır",
+    "Türkçe": "İzleyici (Maρ Vb.)"
+  },
+  {
+    "SN": 925,
+    "English": "Speedometer",
+    "Okunus": "spidamıtır",
+    "Türkçe": "Hızölçer"
+  },
+  {
+    "SN": 926,
+    "English": "Spice",
+    "Okunus": "spays",
+    "Türkçe": "Baharat"
+  },
+  {
+    "SN": 927,
+    "English": "Spider",
+    "Okunus": "spaydır",
+    "Türkçe": "Örümcek"
+  },
+  {
+    "SN": 928,
+    "English": "Spill",
+    "Okunus": "spil",
+    "Türkçe": "Dökmek,Saçmak (Sıvı)"
+  },
+  {
+    "SN": 929,
+    "English": "Spiral",
+    "Okunus": "spiral",
+    "Türkçe": "Spiral"
+  },
+  {
+    "SN": 930,
+    "English": "Spit",
+    "Okunus": "spit",
+    "Türkçe": "Tükürmek"
+  },
+  {
+    "SN": 931,
+    "English": "Splash",
+    "Okunus": "splaş",
+    "Türkçe": "Sıçratma"
+  },
+  {
+    "SN": 932,
+    "English": "Squash",
+    "Okunus": "skwaş",
+    "Türkçe": "1)Bir Çeşit Oyun 2)Sıkışmak"
+  },
+  {
+    "SN": 933,
+    "English": "Squeeze",
+    "Okunus": "skwiiz",
+    "Türkçe": "Sıkışmak, Sıkıştırmak, Sıkmak"
+  },
+  {
+    "SN": 934,
+    "English": "Stabilize",
+    "Okunus": "stebilayz",
+    "Türkçe": "Dengeleme,Saptama"
+  },
+  {
+    "SN": 935,
+    "English": "Stable",
+    "Okunus": "sıteybıl",
+    "Türkçe": "1)Ahır 2)İstikrarlı (Stable\nGoverment)"
+  },
+  {
+    "SN": 936,
+    "English": "Stadium",
+    "Okunus": "stedyum",
+    "Türkçe": "Stadyum"
+  },
+  {
+    "SN": 937,
+    "English": "Stall",
+    "Okunus": "stool",
+    "Türkçe": "1)Küçük Dükkan, Tezgah 2)Vakit\nKazanma"
+  },
+  {
+    "SN": 938,
+    "English": "Stapler",
+    "Okunus": "steipılr",
+    "Türkçe": "Zımba (Tel)"
+  },
+  {
+    "SN": 939,
+    "English": "Stationery",
+    "Okunus": "steyşınery",
+    "Türkçe": "Kırtasiye"
+  },
+  {
+    "SN": 940,
+    "English": "Statue",
+    "Okunus": "statüü",
+    "Türkçe": "Heykel"
+  },
+  {
+    "SN": 941,
+    "English": "Steak",
+    "Okunus": "steyk",
+    "Türkçe": "Bonfile"
+  },
+  {
+    "SN": 942,
+    "English": "Steel",
+    "Okunus": "stiil",
+    "Türkçe": "1)Çelik 2)Büyük Güç"
+  },
+  {
+    "SN": 943,
+    "English": "Steep",
+    "Okunus": "stiip",
+    "Türkçe": "1)Hızlı Yükselme Veya Düşme,\nGeniş Açı 2)Çok Fazla"
+  },
+  {
+    "SN": 944,
+    "English": "Step Child",
+    "Okunus": "step ρayld",
+    "Türkçe": "Üvey Çocuk"
+  },
+  {
+    "SN": 945,
+    "English": "Sterile",
+    "Okunus": "sterayl",
+    "Türkçe": "1)Ameliyatla Kısır Etmek 2)Bakteri"
+  },
+  {
+    "SN": 946,
+    "English": "Sterilize",
+    "Okunus": "sterilayz",
+    "Türkçe": "Kısırlaştırma, Mikroplardan Arıtma"
+  },
+  {
+    "SN": 947,
+    "English": "Stethoscope",
+    "Okunus": "stethıskop",
+    "Türkçe": "Göğüs Dinleme Cihazı, Steteskop"
+  },
+  {
+    "SN": 948,
+    "English": "Steward",
+    "Okunus": "stüvıd",
+    "Türkçe": "1) Erkek Hostes 2) Kahya (Çiflik Vb.)"
+  },
+  {
+    "SN": 949,
+    "English": "Stock Certificate",
+    "Okunus": "stok sertifikeyt",
+    "Türkçe": "Hisse Senedi"
+  },
+  {
+    "SN": 950,
+    "English": "Stool",
+    "Okunus": "stuul",
+    "Türkçe": "Tabure"
+  },
+  {
+    "SN": 951,
+    "English": "Storm",
+    "Okunus": "stoom",
+    "Türkçe": "Fırtına"
+  },
+  {
+    "SN": 952,
+    "English": "Strain",
+    "Okunus": "streyn",
+    "Türkçe": "Germek, Süzmek, İnciltmek, Çok\nGüç, Zor"
+  },
+  {
+    "SN": 953,
+    "English": "Strainer",
+    "Okunus": "streynır",
+    "Türkçe": "Süzgeç"
+  },
+  {
+    "SN": 954,
+    "English": "Strap",
+    "Okunus": "strep",
+    "Türkçe": "Tutacak, Askı (Elbise, Ayakkabı)"
+  },
+  {
+    "SN": 955,
+    "English": "Stretcher",
+    "Okunus": "streρır",
+    "Türkçe": "Sedye"
+  },
+  {
+    "SN": 956,
+    "English": "Structure",
+    "Okunus": "strakρır",
+    "Türkçe": "Yapı"
+  },
+  {
+    "SN": 957,
+    "English": "Studio",
+    "Okunus": "stüudio",
+    "Türkçe": "Sütüdyo"
+  },
+  {
+    "SN": 958,
+    "English": "Stutter",
+    "Okunus": "statır",
+    "Türkçe": "Kekelemek, Kekeme"
+  },
+  {
+    "SN": 959,
+    "English": "Style",
+    "Okunus": "stayl",
+    "Türkçe": "Sitil"
+  },
+  {
+    "SN": 960,
+    "English": "Submit",
+    "Okunus": "sıbmit",
+    "Türkçe": "1)Reyine,Onamasına Bırakma\n2)Teslim Olma,Boyun Eğme"
+  },
+  {
+    "SN": 961,
+    "English": "Subscribe",
+    "Okunus": "sebskrayb",
+    "Türkçe": "1)Abone Parası Ödeme 2)Sürekli\nPara Yardımı Yapmak"
+  },
+  {
+    "SN": 962,
+    "English": "Subsidize",
+    "Okunus": "sabsidayz",
+    "Türkçe": "Yardım Etme (In Scholl You Can Buy\nSubsidized Meats)"
+  },
+  {
+    "SN": 963,
+    "English": "Subsidy",
+    "Okunus": "sabsidiy",
+    "Türkçe": "Yardım, Sübvansiyon (Devletten)"
+  },
+  {
+    "SN": 964,
+    "English": "Substance",
+    "Okunus": "sabstıns",
+    "Türkçe": "Madde, Cevher"
+  },
+  {
+    "SN": 965,
+    "English": "Substitute",
+    "Okunus": "sabstitüvt",
+    "Türkçe": "Vekil Tayin Etme, Yerine Geçme"
+  },
+  {
+    "SN": 966,
+    "English": "Subtract",
+    "Okunus": "sabtrekt",
+    "Türkçe": "Çıkarmak (6-3=3)"
+  },
+  {
+    "SN": 967,
+    "English": "Sufficient",
+    "Okunus": "sefişınt",
+    "Türkçe": "Yeterince"
+  },
+  {
+    "SN": 968,
+    "English": "Suicide",
+    "Okunus": "suisayd",
+    "Türkçe": "İntihar (Commit Suicide : İntihar\nEtmek)"
+  },
+  {
+    "SN": 969,
+    "English": "Suitcase",
+    "Okunus": "suitkeys",
+    "Türkçe": "Bavul (Elbise İρin)"
+  },
+  {
+    "SN": 970,
+    "English": "Summary",
+    "Okunus": "samiri",
+    "Türkçe": "Özet"
+  },
+  {
+    "SN": 971,
+    "English": "Summit",
+    "Okunus": "samit",
+    "Türkçe": "Zirve"
+  },
+  {
+    "SN": 972,
+    "English": "Sunset",
+    "Okunus": "sanset",
+    "Türkçe": "Güneşin Batışı"
+  },
+  {
+    "SN": 973,
+    "English": "Superior",
+    "Okunus": "süperiyır",
+    "Türkçe": "Daha İyi, Önemli, Akıllı"
+  },
+  {
+    "SN": 974,
+    "English": "Supervise",
+    "Okunus": "süpervayz",
+    "Türkçe": "Denetleme, Gözlem"
+  },
+  {
+    "SN": 975,
+    "English": "Supplies",
+    "Okunus": "sıplayz",
+    "Türkçe": "Erzak, Mal"
+  },
+  {
+    "SN": 976,
+    "English": "Suppress",
+    "Okunus": "sıpres",
+    "Türkçe": "1)Baskı Altına Alma,Sindirme\n2)Yayınlanmasını Önleme"
+  },
+  {
+    "SN": 977,
+    "English": "Supreme",
+    "Okunus": "süupriim",
+    "Türkçe": "Yüce, Üstün"
+  },
+  {
+    "SN": 978,
+    "English": "Surgeon",
+    "Okunus": "söcın",
+    "Türkçe": "Cerrah"
+  },
+  {
+    "SN": 979,
+    "English": "Surgery",
+    "Okunus": "söcırı",
+    "Türkçe": "Ameliyat"
+  },
+  {
+    "SN": 980,
+    "English": "Surrender",
+    "Okunus": "sırendır",
+    "Türkçe": "Teslim Olmak (To Yield)"
+  },
+  {
+    "SN": 981,
+    "English": "Suspend",
+    "Okunus": "sıspend",
+    "Türkçe": "Askıya Almak, Durdurmak"
+  },
+  {
+    "SN": 982,
+    "English": "Suspension",
+    "Okunus": "sıspenşın",
+    "Türkçe": "Asma,Asılma (Suspensıon Brıdge :\nAsma Köprü)"
+  },
+  {
+    "SN": 983,
+    "English": "Suspicion",
+    "Okunus": "sıspışın",
+    "Türkçe": "Şüphe"
+  },
+  {
+    "SN": 984,
+    "English": "Swan",
+    "Okunus": "swan",
+    "Türkçe": "Kuğu"
+  },
+  {
+    "SN": 985,
+    "English": "Sweat",
+    "Okunus": "swet",
+    "Türkçe": "Ter,Terlemek"
+  },
+  {
+    "SN": 986,
+    "English": "Sweater",
+    "Okunus": "swetır",
+    "Türkçe": "Süveter"
+  },
+  {
+    "SN": 987,
+    "English": "Swollen",
+    "Okunus": "swolın",
+    "Türkçe": "Şişmiş"
+  },
+  {
+    "SN": 988,
+    "English": "Syrup",
+    "Okunus": "sırıp",
+    "Türkçe": "Şurup"
+  },
+  {
+    "SN": 989,
+    "English": "Tablet",
+    "Okunus": "teblit",
+    "Türkçe": "Tablet"
+  },
+  {
+    "SN": 990,
+    "English": "Taboo",
+    "Okunus": "tabuu",
+    "Türkçe": "Ayıp, Argo, Tabu"
+  },
+  {
+    "SN": 991,
+    "English": "Talent",
+    "Okunus": "telınt",
+    "Türkçe": "1)Kabiliyet (Üstün) 2)Seksi Cazibesi\nOlan Kadın"
+  },
+  {
+    "SN": 992,
+    "English": "Tan",
+    "Okunus": "ten",
+    "Türkçe": "Ten Rengi"
+  },
+  {
+    "SN": 993,
+    "English": "Tangerine",
+    "Okunus": "tengerin",
+    "Türkçe": "Mandalina"
+  },
+  {
+    "SN": 994,
+    "English": "Tape-Measure",
+    "Okunus": "teip-mejır",
+    "Türkçe": "Mezura"
+  },
+  {
+    "SN": 995,
+    "English": "Target",
+    "Okunus": "tergıt",
+    "Türkçe": "Hedef"
+  },
+  {
+    "SN": 996,
+    "English": "Tariff",
+    "Okunus": "terif",
+    "Türkçe": "Tarife, Fiat Listesi"
+  },
+  {
+    "SN": 997,
+    "English": "Tart",
+    "Okunus": "tart",
+    "Türkçe": "1)Turta,Tart,Pasta 2)Asit\nTadı3)Sokak Kadını,Fahişe"
+  },
+  {
+    "SN": 998,
+    "English": "Tease",
+    "Okunus": "tiiz",
+    "Türkçe": "1)Kızdırma,Yüz Verip Sonra Sırt\nÇevirme2)Kabartma(Sa"
+  },
+  {
+    "SN": 999,
+    "English": "Technique",
+    "Okunus": "teknik",
+    "Türkçe": "Teknik"
+  },
+  {
+    "SN": 1000,
+    "English": "Teenager",
+    "Okunus": "tiineρır",
+    "Türkçe": "13-19 Yaş Arası"
+  },
+  {
+    "SN": 1001,
+    "English": "Temple",
+    "Okunus": "tempıl",
+    "Türkçe": "Tapınak"
+  },
+  {
+    "SN": 1002,
+    "English": "Temporary",
+    "Okunus": "temprıri",
+    "Türkçe": "Geçici"
+  },
+  {
+    "SN": 1003,
+    "English": "Tempt",
+    "Okunus": "tempt",
+    "Türkçe": "Cezbetmek, Şeytana Uydurmak"
+  },
+  {
+    "SN": 1004,
+    "English": "Tenant",
+    "Okunus": "tenınt",
+    "Türkçe": "Kiracı"
+  },
+  {
+    "SN": 1005,
+    "English": "Tend",
+    "Okunus": "tend",
+    "Türkçe": "Meyilli Olmak"
+  },
+  {
+    "SN": 1006,
+    "English": "Tent",
+    "Okunus": "tent",
+    "Türkçe": "Tente,Çadır"
+  },
+  {
+    "SN": 1007,
+    "English": "Terminal",
+    "Okunus": "termınıl",
+    "Türkçe": "Terminal"
+  },
+  {
+    "SN": 1008,
+    "English": "Terrace",
+    "Okunus": "terıs",
+    "Türkçe": "Bitişik Evler"
+  },
+  {
+    "SN": 1009,
+    "English": "Terrify",
+    "Okunus": "terifay",
+    "Türkçe": "Korkutmak"
+  },
+  {
+    "SN": 1010,
+    "English": "Territory",
+    "Okunus": "teritri",
+    "Türkçe": "Toprak Parçası"
+  },
+  {
+    "SN": 1011,
+    "English": "Theme",
+    "Okunus": "thiim",
+    "Türkçe": "Tema, Konu"
+  },
+  {
+    "SN": 1012,
+    "English": "Theory",
+    "Okunus": "thiori",
+    "Türkçe": "Teori"
+  },
+  {
+    "SN": 1013,
+    "English": "Thermometer",
+    "Okunus": "themomitır",
+    "Türkçe": "Termometre"
+  },
+  {
+    "SN": 1014,
+    "English": "Third",
+    "Okunus": "thöd",
+    "Türkçe": "Üçüncü"
+  },
+  {
+    "SN": 1015,
+    "English": "Thirteenth",
+    "Okunus": "thötiith",
+    "Türkçe": "Onüçüncü"
+  },
+  {
+    "SN": 1016,
+    "English": "Thirtieth",
+    "Okunus": "thötith",
+    "Türkçe": "Otuzuncu"
+  },
+  {
+    "SN": 1017,
+    "English": "Thoroughly",
+    "Okunus": "thruili",
+    "Türkçe": "Tamamıyla, Bütün İnce Detaylarıyla"
+  },
+  {
+    "SN": 1018,
+    "English": "Thoughtful",
+    "Okunus": "thootful",
+    "Türkçe": "Düşünceli,Öbürlerini Düşünen"
+  },
+  {
+    "SN": 1019,
+    "English": "Thoughtless",
+    "Okunus": "thootlıs",
+    "Türkçe": "Düşüncesiz"
+  },
+  {
+    "SN": 1020,
+    "English": "Thumb",
+    "Okunus": "tham",
+    "Türkçe": "El, Baş Parmağı"
+  },
+  {
+    "SN": 1021,
+    "English": "Tick",
+    "Okunus": "tik",
+    "Türkçe": "Saat Sesi, Okey İşareti"
+  },
+  {
+    "SN": 1022,
+    "English": "Tide",
+    "Okunus": "tayd",
+    "Türkçe": "Gel-Git Olayı"
+  },
+  {
+    "SN": 1023,
+    "English": "Tiger",
+    "Okunus": "taygır",
+    "Türkçe": "Kaplan"
+  },
+  {
+    "SN": 1024,
+    "English": "Tiny",
+    "Okunus": "tayni",
+    "Türkçe": "Çok Küçük"
+  },
+  {
+    "SN": 1025,
+    "English": "Toilet",
+    "Okunus": "toilıt",
+    "Türkçe": "Tuvalet"
+  },
+  {
+    "SN": 1026,
+    "English": "Token",
+    "Okunus": "tokın",
+    "Türkçe": "1)İşaret 2)Jeton"
+  },
+  {
+    "SN": 1027,
+    "English": "Tomato",
+    "Okunus": "tımaato",
+    "Türkçe": "Domates"
+  },
+  {
+    "SN": 1028,
+    "English": "Ton",
+    "Okunus": "tan",
+    "Türkçe": "Ton (1000 Kg.)"
+  },
+  {
+    "SN": 1029,
+    "English": "Tone",
+    "Okunus": "ton",
+    "Türkçe": "Ton (Ses,Işık Vs.)"
+  },
+  {
+    "SN": 1030,
+    "English": "Tool",
+    "Okunus": "tuul",
+    "Türkçe": "Alet (Çekiρ, Balta Vb.)"
+  },
+  {
+    "SN": 1031,
+    "English": "Tooth Pick",
+    "Okunus": "tuuth pik",
+    "Türkçe": "Kürdan"
+  },
+  {
+    "SN": 1032,
+    "English": "Torch",
+    "Okunus": "torρ",
+    "Türkçe": "1)Meşale 2)El Feneri"
+  },
+  {
+    "SN": 1033,
+    "English": "Torpedo",
+    "Okunus": "torpiido",
+    "Türkçe": "Torpil"
+  },
+  {
+    "SN": 1034,
+    "English": "Tortoise",
+    "Okunus": "tootıs",
+    "Türkçe": "Kaplumbağa"
+  },
+  {
+    "SN": 1035,
+    "English": "Torture",
+    "Okunus": "torρır",
+    "Türkçe": "İşkence, İşkence Etmek"
+  },
+  {
+    "SN": 1036,
+    "English": "Tough",
+    "Okunus": "taf",
+    "Türkçe": "Zor, Güç, Sert"
+  },
+  {
+    "SN": 1037,
+    "English": "Tournament",
+    "Okunus": "turnımınt",
+    "Türkçe": "Turnuva"
+  },
+  {
+    "SN": 1038,
+    "English": "Tradition",
+    "Okunus": "tredişin",
+    "Türkçe": "Gelenek"
+  },
+  {
+    "SN": 1039,
+    "English": "Tragedy",
+    "Okunus": "trejedi",
+    "Türkçe": "Trajedi"
+  },
+  {
+    "SN": 1040,
+    "English": "Transform",
+    "Okunus": "trensform",
+    "Türkçe": "Bir Şeyin Şeklini Değiştirmek"
+  },
+  {
+    "SN": 1041,
+    "English": "Transparent",
+    "Okunus": "tresperint",
+    "Türkçe": "Saydam"
+  },
+  {
+    "SN": 1042,
+    "English": "Trap",
+    "Okunus": "trep",
+    "Türkçe": "Tuzak, Kapan, Yakalamak"
+  },
+  {
+    "SN": 1043,
+    "English": "Tremendous",
+    "Okunus": "trimendıs",
+    "Türkçe": "Çok Büyük, Harika"
+  },
+  {
+    "SN": 1044,
+    "English": "Trigger",
+    "Okunus": "trigır",
+    "Türkçe": "Tetik ( Who Pulled Triger? )"
+  },
+  {
+    "SN": 1045,
+    "English": "Tripod",
+    "Okunus": "traypod",
+    "Türkçe": "Üç Ayaklı Sehpa, Fotoğraf Sehpası"
+  },
+  {
+    "SN": 1046,
+    "English": "Troop",
+    "Okunus": "trup",
+    "Türkçe": "İnsan Veya Hayva Grubu, Sürü"
+  },
+  {
+    "SN": 1047,
+    "English": "Troops",
+    "Okunus": "trups",
+    "Türkçe": "Askerler"
+  },
+  {
+    "SN": 1048,
+    "English": "Truck",
+    "Okunus": "trak",
+    "Türkçe": "Kamyon"
+  },
+  {
+    "SN": 1049,
+    "English": "Tuition",
+    "Okunus": "tuuşın",
+    "Türkçe": "Öğretim, Özel Ders"
+  },
+  {
+    "SN": 1050,
+    "English": "Tulip",
+    "Okunus": "tüulıp",
+    "Türkçe": "Lale, Lale Fidanı"
+  },
+  {
+    "SN": 1051,
+    "English": "Tummy",
+    "Okunus": "tami",
+    "Türkçe": "Mide"
+  },
+  {
+    "SN": 1052,
+    "English": "Turban",
+    "Okunus": "töbın",
+    "Türkçe": "Türban"
+  },
+  {
+    "SN": 1053,
+    "English": "Turnkey",
+    "Okunus": "törnkiy",
+    "Türkçe": "Anahtar Teslim (Proje Vb.)"
+  },
+  {
+    "SN": 1054,
+    "English": "Turnover",
+    "Okunus": "törnovır",
+    "Türkçe": "Ciro (Satıs)"
+  },
+  {
+    "SN": 1055,
+    "English": "Typist",
+    "Okunus": "taypist",
+    "Türkçe": "Daktiloda Yazı Yazan Kimse"
+  },
+  {
+    "SN": 1056,
+    "English": "Tyre",
+    "Okunus": "tayr",
+    "Türkçe": "Lastik"
+  },
+  {
+    "SN": 1057,
+    "English": "Ufo",
+    "Okunus": "yufo",
+    "Türkçe": "Unıdentıfıend Flyıng Object:\nTanımlanmamış Uçan Cisi"
+  },
+  {
+    "SN": 1058,
+    "English": "Undergo",
+    "Okunus": "andırgo",
+    "Türkçe": "Katlanmak, Çekmek, Bir Olayın\nOlması"
+  },
+  {
+    "SN": 1059,
+    "English": "Underline",
+    "Okunus": "andırlayn",
+    "Türkçe": "Yazının, Kelimenin Altını Çizmek"
+  },
+  {
+    "SN": 1060,
+    "English": "Unfair",
+    "Okunus": "anfeyır",
+    "Türkçe": "Adil Olmayan"
+  },
+  {
+    "SN": 1061,
+    "English": "Unit",
+    "Okunus": "yunıt",
+    "Türkçe": "Birim, 1-9 Arasındaki Sayılar"
+  },
+  {
+    "SN": 1062,
+    "English": "Up To You",
+    "Okunus": "ap tu yu",
+    "Türkçe": "Sana Kalmış, Nasıl İstersen (It’s Up\nTo You)"
+  },
+  {
+    "SN": 1063,
+    "English": "Upon",
+    "Okunus": "ıpon",
+    "Türkçe": "Üstünde"
+  },
+  {
+    "SN": 1064,
+    "English": "Upside-Down",
+    "Okunus": "apsayd down",
+    "Türkçe": "Tepe Taklak, Ters Dönmek"
+  },
+  {
+    "SN": 1065,
+    "English": "Urban",
+    "Okunus": "ööbın",
+    "Türkçe": "Şehirsel, Kente Ait (Urban Life :\nŞehirsel Yaşam)"
+  },
+  {
+    "SN": 1066,
+    "English": "V.I.P.",
+    "Okunus": "viaypi",
+    "Türkçe": "(Very Important Person), Çok\nÖnemli Kişi"
+  },
+  {
+    "SN": 1067,
+    "English": "Vacation",
+    "Okunus": "vekeyşın",
+    "Türkçe": "Tatil"
+  },
+  {
+    "SN": 1068,
+    "English": "Vacuum cleaner",
+    "Okunus": "vakuum klinır",
+    "Türkçe": "Elektrik Süpürgesi"
+  },
+  {
+    "SN": 1069,
+    "English": "Van",
+    "Okunus": "ven",
+    "Türkçe": "Minibüs"
+  },
+  {
+    "SN": 1070,
+    "English": "Vanilla",
+    "Okunus": "venilı",
+    "Türkçe": "Vanilya"
+  },
+  {
+    "SN": 1071,
+    "English": "Vaporize",
+    "Okunus": "veipırayz",
+    "Türkçe": "Buharlaşmak"
+  },
+  {
+    "SN": 1072,
+    "English": "Vase",
+    "Okunus": "vaaz",
+    "Türkçe": "Vazo"
+  },
+  {
+    "SN": 1073,
+    "English": "Veil",
+    "Okunus": "veil",
+    "Türkçe": "Duvak"
+  },
+  {
+    "SN": 1074,
+    "English": "Vein",
+    "Okunus": "veyn",
+    "Türkçe": "Damar"
+  },
+  {
+    "SN": 1075,
+    "English": "Velvet",
+    "Okunus": "velvıt",
+    "Türkçe": "Kadife"
+  },
+  {
+    "SN": 1076,
+    "English": "Venture",
+    "Okunus": "venρır",
+    "Türkçe": "Macera, Risk (Genelde İş\nHayatında)"
+  },
+  {
+    "SN": 1077,
+    "English": "Verb",
+    "Okunus": "vörb",
+    "Türkçe": "Fiil"
+  },
+  {
+    "SN": 1078,
+    "English": "Verdict",
+    "Okunus": "vördikt",
+    "Türkçe": "Hüküm"
+  },
+  {
+    "SN": 1079,
+    "English": "Vertical",
+    "Okunus": "vörtıkıl",
+    "Türkçe": "Dikey"
+  },
+  {
+    "SN": 1080,
+    "English": "Vest",
+    "Okunus": "vest",
+    "Türkçe": "Atlet, Fanila"
+  },
+  {
+    "SN": 1081,
+    "English": "Vet",
+    "Okunus": "vet",
+    "Türkçe": "Veteriner"
+  },
+  {
+    "SN": 1082,
+    "English": "Via",
+    "Okunus": "vaı",
+    "Türkçe": "Geçerek,Oradan (We Go From\nLondon To Van Via Paris.)"
+  },
+  {
+    "SN": 1083,
+    "English": "Viable",
+    "Okunus": "vaıbıl",
+    "Türkçe": "Geçerli (But İn Practice İt Wouln’t\nBe Viable)"
+  },
+  {
+    "SN": 1084,
+    "English": "Vice",
+    "Okunus": "vays",
+    "Türkçe": "1)Yardımcı, Liderin Yardımcısı\n2)Mengene"
+  },
+  {
+    "SN": 1085,
+    "English": "Vicious Circle",
+    "Okunus": "vişıs sörkıl",
+    "Türkçe": "Kısır Döngü"
+  },
+  {
+    "SN": 1086,
+    "English": "Victimize",
+    "Okunus": "viktımayz",
+    "Türkçe": "Kurban Etmek (Grubun Suρunu Bir\nKişiye Yüklemek.)"
+  },
+  {
+    "SN": 1087,
+    "English": "Vinegar",
+    "Okunus": "vinıgır",
+    "Türkçe": "Sirke"
+  },
+  {
+    "SN": 1088,
+    "English": "Violin",
+    "Okunus": "vaılın",
+    "Türkçe": "Keman"
+  },
+  {
+    "SN": 1089,
+    "English": "Vital",
+    "Okunus": "vaytıl",
+    "Türkçe": "Çok Önenemli"
+  },
+  {
+    "SN": 1090,
+    "English": "Volcano",
+    "Okunus": "volkeno",
+    "Türkçe": "Volkan,Yanardağ"
+  },
+  {
+    "SN": 1091,
+    "English": "Volleyball",
+    "Okunus": "volıbol",
+    "Türkçe": "Voleybol"
+  },
+  {
+    "SN": 1092,
+    "English": "Voluntary",
+    "Okunus": "volıntri",
+    "Türkçe": "Gönüllü"
+  },
+  {
+    "SN": 1093,
+    "English": "Vomit",
+    "Okunus": "vamit",
+    "Türkçe": "Kusmak"
+  },
+  {
+    "SN": 1094,
+    "English": "Vowel",
+    "Okunus": "vavıl",
+    "Türkçe": "Sesli Harf (A,E,İ)"
+  },
+  {
+    "SN": 1095,
+    "English": "Vulnerable",
+    "Okunus": "valnıbıl",
+    "Türkçe": "Zayıf, Korumasız"
+  },
+  {
+    "SN": 1096,
+    "English": "Vulture",
+    "Okunus": "valρır",
+    "Türkçe": "1)Akbaba 2)Haris Kimse"
+  },
+  {
+    "SN": 1097,
+    "English": "Wager",
+    "Okunus": "wacır",
+    "Türkçe": "İddiaya Girmek"
+  },
+  {
+    "SN": 1098,
+    "English": "Wagon",
+    "Okunus": "wegın",
+    "Türkçe": "Yük Vagonu, At Arabası"
+  },
+  {
+    "SN": 1099,
+    "English": "Waist",
+    "Okunus": "weyst",
+    "Türkçe": "Bel"
+  },
+  {
+    "SN": 1100,
+    "English": "Waistcoat",
+    "Okunus": "weystkot",
+    "Türkçe": "Yelek"
+  },
+  {
+    "SN": 1101,
+    "English": "Wallet",
+    "Okunus": "walıt",
+    "Türkçe": "Cüzdan"
+  },
+  {
+    "SN": 1102,
+    "English": "Walnut",
+    "Okunus": "wolnat",
+    "Türkçe": "Ceviz"
+  },
+  {
+    "SN": 1103,
+    "English": "Warder",
+    "Okunus": "woodır",
+    "Türkçe": "1) Bekçi, Muhafız 2) Gardiyan"
+  },
+  {
+    "SN": 1104,
+    "English": "Wardrobe",
+    "Okunus": "wordroop",
+    "Türkçe": "Gardrop, Büyük Dolap"
+  },
+  {
+    "SN": 1105,
+    "English": "Ware",
+    "Okunus": "weyır",
+    "Türkçe": "Eşya (Kitchen Ware Vb.)"
+  },
+  {
+    "SN": 1106,
+    "English": "Warehouse",
+    "Okunus": "weyrhaus",
+    "Türkçe": "Depo"
+  },
+  {
+    "SN": 1107,
+    "English": "Warrant",
+    "Okunus": "warınt",
+    "Türkçe": "Garanti"
+  },
+  {
+    "SN": 1108,
+    "English": "Wasp",
+    "Okunus": "wasp",
+    "Türkçe": "Arı (Bal Arısı Değil)"
+  },
+  {
+    "SN": 1109,
+    "English": "Water Proof",
+    "Okunus": "wotır pruf",
+    "Türkçe": "Su Geçirmeyen"
+  },
+  {
+    "SN": 1110,
+    "English": "Water-Colours",
+    "Okunus": "wotır kolırs",
+    "Türkçe": "Sulu Boya"
+  },
+  {
+    "SN": 1111,
+    "English": "Whale",
+    "Okunus": "weyl",
+    "Türkçe": "Balina"
+  },
+  {
+    "SN": 1112,
+    "English": "What If",
+    "Okunus": "wat if",
+    "Türkçe": "Ne Olurdu.."
+  },
+  {
+    "SN": 1113,
+    "English": "What’s Its (His/Her)\nName",
+    "Okunus": "",
+    "Türkçe": "Bilmem Kim (Birisinin Adını\nUnutma)"
+  },
+  {
+    "SN": 1114,
+    "English": "What’s More",
+    "Okunus": "wats mor",
+    "Türkçe": "Bunun Yanısıra, Üstelik"
+  },
+  {
+    "SN": 1115,
+    "English": "Wheel",
+    "Okunus": "wiil",
+    "Türkçe": "Tekerlek, Çark, Tekerlekli Bir Şeyi\nElle İtmek"
+  },
+  {
+    "SN": 1116,
+    "English": "Whim",
+    "Okunus": "whim",
+    "Türkçe": "Kapris"
+  },
+  {
+    "SN": 1117,
+    "English": "Whisper",
+    "Okunus": "wispır",
+    "Türkçe": "Fısıldamak, Fısıldaşmak"
+  },
+  {
+    "SN": 1118,
+    "English": "Wind Screen",
+    "Okunus": "wind skriin",
+    "Türkçe": "Araba Ön Camı"
+  },
+  {
+    "SN": 1119,
+    "English": "Windpipe",
+    "Okunus": "windpayp",
+    "Türkçe": "Nefes Borusu"
+  },
+  {
+    "SN": 1120,
+    "English": "Wing",
+    "Okunus": "wing",
+    "Türkçe": "Kanat (Kuş, Uçak) (Left Wing: Sol\nKesimi Destekleyenler)"
+  },
+  {
+    "SN": 1121,
+    "English": "Wisdom",
+    "Okunus": "wizdım",
+    "Türkçe": "Akıl"
+  },
+  {
+    "SN": 1122,
+    "English": "Worship",
+    "Okunus": "wörşip",
+    "Türkçe": "1)Tapmak, Tapınmak, İbadet\n2)Hayranlık, Saygı"
+  },
+  {
+    "SN": 1123,
+    "English": "Wrist",
+    "Okunus": "rist",
+    "Türkçe": "Bilek"
+  },
+  {
+    "SN": 1124,
+    "English": "Zoom",
+    "Okunus": "zuum",
+    "Türkçe": "Yaklaştırmak"
+  }
+]
